@@ -1,0 +1,2826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="application/xml" href="ComissariesPLC_Informacio.xslt"?>
+<comissaries>
+    <row _id="row-tmj9_2dx3_tfp7" _uuid="00000000-0000-0000-F8F5-61CC01C78705" _position="0" 
+    _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-tmj9_2dx3_tfp7">
+        <codi_d_informaci>17833</codi_d_informaci>
+        <unitat>Policia Local de Parets del Vallès</unitat>
+        <adre_a>Av. de Lluís Companys, 19</adre_a>
+        <codi_postal>08150</codi_postal>
+        <municipi>Parets del Vallès</municipi>
+        <codi_municipi>81593</codi_municipi>
+        <utm_x>435914.5257352838</utm_x>
+        <utm_y>4602573.5157826645</utm_y>
+        <latitud>41.572275591</latitud>
+        <longitud>2.231314474</longitud>
+        <georefer_ncia>POINT (2.231314474 41.572275591)</georefer_ncia>
+    </row>
+    <row _id="row-sffj-kc3g-krbp" _uuid="00000000-0000-0000-AAB2-68ADD75B2F11" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-sffj-kc3g-krbp">
+        <codi_d_informaci>17737</codi_d_informaci>
+        <unitat>Policia Local de Banyoles</unitat>
+        <adre_a>Pg. de la Farga, 84</adre_a>
+        <codi_postal>17820</codi_postal>
+        <municipi>Banyoles</municipi>
+        <codi_municipi>170157</codi_municipi>
+        <utm_x>481476.832</utm_x>
+        <utm_y>4662614.1</utm_y>
+        <latitud>42.115406543</latitud>
+        <longitud>2.775932582</longitud>
+        <georefer_ncia>POINT (2.775932582 42.115406543)</georefer_ncia>
+    </row>
+    <row _id="row-sxyi~djx4_zmfu" _uuid="00000000-0000-0000-FF44-918243DD7560" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-sxyi~djx4_zmfu">
+        <codi_d_informaci>17879</codi_d_informaci>
+        <unitat>Policia Local de Sant Sadurní d'Anoia</unitat>
+        <adre_a>Pl. de l' Ajuntament, 1</adre_a>
+        <codi_postal>08770</codi_postal>
+        <municipi>Sant Sadurní d'Anoia</municipi>
+        <codi_municipi>82401</codi_municipi>
+        <utm_x>398620.3753117715</utm_x>
+        <utm_y>4586546.969904658</utm_y>
+        <latitud>41.424089412</latitud>
+        <longitud>1.786758362</longitud>
+        <georefer_ncia>POINT (1.786758362 41.424089412)</georefer_ncia>
+    </row>
+    <row _id="row-ct7m~ah5v.jbn5" _uuid="00000000-0000-0000-4A06-7AC0AD6620FE" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ct7m~ah5v.jbn5">
+        <codi_d_informaci>17739</codi_d_informaci>
+        <unitat>Guàrdia Urbana de Barcelona</unitat>
+        <adre_a>C. de la Guàrdia Urbana, 3</adre_a>
+        <codi_postal>08004</codi_postal>
+        <municipi>Barcelona</municipi>
+        <codi_municipi>80193</codi_municipi>
+        <utm_x>429247.4460479251</utm_x>
+        <utm_y>4580385.68296864</utm_y>
+        <latitud>41.371977557</latitud>
+        <longitud>2.153989965</longitud>
+        <georefer_ncia>POINT (2.153989965 41.371977557)</georefer_ncia>
+    </row>
+    <row _id="row-ekks~tfej-jjxa" _uuid="00000000-0000-0000-446A-BE4A6D672AC0" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ekks~tfej-jjxa">
+        <codi_d_informaci>17863</codi_d_informaci>
+        <unitat>Policia Local de Sant Climent de Llobregat</unitat>
+        <adre_a>Trv. de Prat de la Riba, 31</adre_a>
+        <codi_postal>08849</codi_postal>
+        <municipi>Sant Climent de Llobregat</municipi>
+        <codi_municipi>82042</codi_municipi>
+        <utm_x>416141.46723913436</utm_x>
+        <utm_y>4576762.766793402</utm_y>
+        <latitud>41.337990343</latitud>
+        <longitud>1.997758643</longitud>
+        <georefer_ncia>POINT (1.997758643 41.337990343)</georefer_ncia>
+    </row>
+    <row _id="row-k9bv-72kk-r9ss" _uuid="00000000-0000-0000-0BE2-9F532FB41B92" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-k9bv-72kk-r9ss">
+        <codi_d_informaci>17898</codi_d_informaci>
+        <unitat>Policia Local de Sils</unitat>
+        <adre_a>Pl. de l' Estació, s/n</adre_a>
+        <codi_postal>17410</codi_postal>
+        <municipi>Sils</municipi>
+        <codi_municipi>171931</codi_municipi>
+        <utm_x>478802.30463957094</utm_x>
+        <utm_y>4628459.449505179</utm_y>
+        <latitud>41.807720224</latitud>
+        <longitud>2.74481055</longitud>
+        <georefer_ncia>POINT (2.74481055 41.807720224)</georefer_ncia>
+    </row>
+    <row _id="row-p5gd-6rcm.5urz" _uuid="00000000-0000-0000-AC76-B5DF3ECC82B3" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-p5gd-6rcm.5urz">
+        <codi_d_informaci>17899</codi_d_informaci>
+        <unitat>Policia Local de Sitges</unitat>
+        <adre_a>C. de Samuel Barrachina, s/n, cantonada Pg. de  Ronda</adre_a>
+        <codi_postal>08870</codi_postal>
+        <municipi>Sitges</municipi>
+        <codi_municipi>82704</codi_municipi>
+        <utm_x>400276.2990985286</utm_x>
+        <utm_y>4566279.384916912</utm_y>
+        <latitud>41.241771585</latitud>
+        <longitud>1.809898242</longitud>
+        <georefer_ncia>POINT (1.809898242 41.241771585)</georefer_ncia>
+    </row>
+    <row _id="row-7spp-pb3d~gfg8" _uuid="00000000-0000-0000-405F-F92CFF0BA6CE" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-7spp-pb3d~gfg8">
+        <codi_d_informaci>17731</codi_d_informaci>
+        <unitat>Policia Local d'Arenys de Munt</unitat>
+        <adre_a>Rbla. Sant Martí, 19</adre_a>
+        <codi_postal>08358</codi_postal>
+        <municipi>Arenys de Munt</municipi>
+        <codi_municipi>80076</codi_municipi>
+        <utm_x>461717.86042348656</utm_x>
+        <utm_y>4606485.472064644</utm_y>
+        <latitud>41.609196841</latitud>
+        <longitud>2.540578415</longitud>
+        <georefer_ncia>POINT (2.540578415 41.609196841)</georefer_ncia>
+    </row>
+    <row _id="row-xtcs_bwfs~p4re" _uuid="00000000-0000-0000-60E3-8576B7C08FA5" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-xtcs_bwfs~p4re">
+        <codi_d_informaci>17907</codi_d_informaci>
+        <unitat>Policia Local de Tona</unitat>
+        <adre_a>C. de la Font, 8-10</adre_a>
+        <codi_postal>08551</codi_postal>
+        <municipi>Tona</municipi>
+        <codi_municipi>82830</codi_municipi>
+        <utm_x>436046.5398599762</utm_x>
+        <utm_y>4633403.105580015</utm_y>
+        <latitud>41.849947458</latitud>
+        <longitud>2.229560796</longitud>
+        <georefer_ncia>POINT (2.229560796 41.849947458)</georefer_ncia>
+    </row>
+    <row _id="row-mnuq-sxvd.8qc9" _uuid="00000000-0000-0000-FF34-D7524150C543" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-mnuq-sxvd.8qc9">
+        <codi_d_informaci>17821</codi_d_informaci>
+        <unitat>Policia Local de Móra d'Ebre</unitat>
+        <adre_a>Pl. de Baix, 1</adre_a>
+        <codi_postal>43740</codi_postal>
+        <municipi>Móra d'Ebre</municipi>
+        <codi_municipi>430939</codi_municipi>
+        <utm_x>301934.313585505</utm_x>
+        <utm_y>4551776.481602643</utm_y>
+        <latitud>41.093138745</latitud>
+        <longitud>0.641690552</longitud>
+        <georefer_ncia>POINT (0.641690552 41.093138745)</georefer_ncia>
+    </row>
+    <row _id="row-367a_h4iu~qt8q" _uuid="00000000-0000-0000-F553-9E002BD5769A" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-367a_h4iu~qt8q">
+        <codi_d_informaci>17738</codi_d_informaci>
+        <unitat>Policia Local de Barberà del Vallès</unitat>
+        <adre_a>Av. de la Verge de Montserrat, 60</adre_a>
+        <codi_postal>08210</codi_postal>
+        <municipi>Barberà del Vallès</municipi>
+        <codi_municipi>82520</codi_municipi>
+        <utm_x>426852.16535650793</utm_x>
+        <utm_y>4596204.072668119</utm_y>
+        <latitud>41.514132258</latitud>
+        <longitud>2.123400886</longitud>
+        <georefer_ncia>POINT (2.123400886 41.514132258)</georefer_ncia>
+    </row>
+    <row _id="row-rdgq_gu8z_8dbf" _uuid="00000000-0000-0000-FC0D-AEFFAB9DF576" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-rdgq_gu8z_8dbf">
+        <codi_d_informaci>17812</codi_d_informaci>
+        <unitat>Guàrdia Urbana de Molins de Rei</unitat>
+        <adre_a>C. de Rubió i Ors, 8</adre_a>
+        <codi_postal>08750</codi_postal>
+        <municipi>Molins de Rei</municipi>
+        <codi_municipi>81234</codi_municipi>
+        <utm_x>417761.1667696503</utm_x>
+        <utm_y>4584936.626176872</utm_y>
+        <latitud>41.411773679</latitud>
+        <longitud>2.016004928</longitud>
+        <georefer_ncia>POINT (2.016004928 41.411773679)</georefer_ncia>
+    </row>
+    <row _id="row-4rhv.6g8h-gndw" _uuid="00000000-0000-0000-406B-8176418C6E4A" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-4rhv.6g8h-gndw">
+        <codi_d_informaci>17749</codi_d_informaci>
+        <unitat>Policia Local de Cadaqués</unitat>
+        <adre_a>C. de Carles Rahola, 9</adre_a>
+        <codi_postal>17488</codi_postal>
+        <municipi>Cadaqués</municipi>
+        <codi_municipi>170329</codi_municipi>
+        <utm_x>523215.32468034426</utm_x>
+        <utm_y>4682255.927928147</utm_y>
+        <latitud>42.292180655</latitud>
+        <longitud>3.281610481</longitud>
+        <georefer_ncia>POINT (3.281610481 42.292180655)</georefer_ncia>
+    </row>
+    <row _id="row-ab5x~4dwh~rxm7" _uuid="00000000-0000-0000-AD5B-48F476AF03A7" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ab5x~4dwh~rxm7">
+        <codi_d_informaci>17797</codi_d_informaci>
+        <unitat>Policia Local de Llançà</unitat>
+        <adre_a>C. de la Selva, 17</adre_a>
+        <codi_postal>17490</codi_postal>
+        <municipi>Llançà</municipi>
+        <codi_municipi>170926</codi_municipi>
+        <utm_x>512587.64318490954</utm_x>
+        <utm_y>4690029.486618184</utm_y>
+        <latitud>42.362434362</latitud>
+        <longitud>3.152862808</longitud>
+        <georefer_ncia>POINT (3.152862808 42.362434362)</georefer_ncia>
+    </row>
+    <row _id="row-vjb2~ahaz-fx9i" _uuid="00000000-0000-0000-3DE6-5EF1D019CC06" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-vjb2~ahaz-fx9i">
+        <codi_d_informaci>17798</codi_d_informaci>
+        <unitat>Guàrdia Urbana de Lleida</unitat>
+        <adre_a>C. de Salmerón, 1</adre_a>
+        <codi_postal>25004</codi_postal>
+        <municipi>Lleida</municipi>
+        <codi_municipi>251207</codi_municipi>
+        <utm_x>302124.538089898</utm_x>
+        <utm_y>4610453.05613302</utm_y>
+        <latitud>41.621273413</latitud>
+        <longitud>0.624821671</longitud>
+        <georefer_ncia>POINT (0.624821671 41.621273413)</georefer_ncia>
+    </row>
+    <row _id="row-24bc.3248.6qhy" _uuid="00000000-0000-0000-9F95-828F3DA72352" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-24bc.3248.6qhy">
+        <codi_d_informaci>17915</codi_d_informaci>
+        <unitat>Policia Local de Tremp</unitat>
+        <adre_a>Pl. de la Creu, 1</adre_a>
+        <codi_postal>25620</codi_postal>
+        <municipi>Tremp</municipi>
+        <codi_municipi>252347</codi_municipi>
+        <utm_x>326211.87871129793</utm_x>
+        <utm_y>4670456.321400577</utm_y>
+        <latitud>42.166960056</latitud>
+        <longitud>0.896094978</longitud>
+        <georefer_ncia>POINT (0.896094978 42.166960056)</georefer_ncia>
+    </row>
+    <row _id="row-895z~xfdp~2jp7" _uuid="00000000-0000-0000-4B9B-23E2B1933888" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-895z~xfdp~2jp7">
+        <codi_d_informaci>17795</codi_d_informaci>
+        <unitat>Policia Local de la Llagosta</unitat>
+        <adre_a>Pg. del Pintor Sert, s/n</adre_a>
+        <codi_postal>08120</codi_postal>
+        <municipi>La Llagosta</municipi>
+        <codi_municipi>81056</codi_municipi>
+        <utm_x>432940.118</utm_x>
+        <utm_y>4595840.405</utm_y>
+        <latitud>41.511443079</latitud>
+        <longitud>2.19634743</longitud>
+        <georefer_ncia>POINT (2.19634743 41.511443079)</georefer_ncia>
+    </row>
+    <row _id="row-fbkt~ykc4-husp" _uuid="00000000-0000-0000-C3F3-3D7D9FEE6246" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-fbkt~ykc4-husp">
+        <codi_d_informaci>17764</codi_d_informaci>
+        <unitat>Policia Local de Castellar del Vallès</unitat>
+        <adre_a>C. de Sant Llorenç, 7</adre_a>
+        <codi_postal>08211</codi_postal>
+        <municipi>Castellar del Vallès</municipi>
+        <codi_municipi>80517</codi_municipi>
+        <utm_x>423984.609</utm_x>
+        <utm_y>4607932.47</utm_y>
+        <latitud>41.619493582</latitud>
+        <longitud>2.087555327</longitud>
+        <georefer_ncia>POINT (2.087555327 41.619493582)</georefer_ncia>
+    </row>
+    <row _id="row-i9g3~ubry_4ces" _uuid="00000000-0000-0000-F280-E6AE3A0D001F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-i9g3~ubry_4ces">
+        <codi_d_informaci>17786</codi_d_informaci>
+        <unitat>Policia Municipal de Gavà</unitat>
+        <adre_a>C. de la Llenya, 2</adre_a>
+        <codi_postal>08850</codi_postal>
+        <municipi>Gavà</municipi>
+        <codi_municipi>80898</codi_municipi>
+        <utm_x>415556.7958775377</utm_x>
+        <utm_y>4572880.718210775</utm_y>
+        <latitud>41.302966251</latitud>
+        <longitud>1.991311224</longitud>
+        <georefer_ncia>POINT (1.991311224 41.302966251)</georefer_ncia>
+    </row>
+    <row _id="row-kap2-r576-djgn" _uuid="00000000-0000-0000-1C8E-5D3304FB205F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-kap2-r576-djgn">
+        <codi_d_informaci>17765</codi_d_informaci>
+        <unitat>Policia Local de Castellbisbal</unitat>
+        <adre_a>Av. Antoni Gaudi, 9</adre_a>
+        <codi_postal>08755</codi_postal>
+        <municipi>Castellbisbal</municipi>
+        <codi_municipi>80543</codi_municipi>
+        <utm_x>414917.12409264245</utm_x>
+        <utm_y>4592150.115940078</utm_y>
+        <latitud>41.477566135</latitud>
+        <longitud>1.982120148</longitud>
+        <georefer_ncia>POINT (1.982120148 41.477566135)</georefer_ncia>
+    </row>
+    <row _id="row-8irg~ys34_yxqy" _uuid="00000000-0000-0000-3A46-FDBBC5DB2141" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-8irg~ys34_yxqy">
+        <codi_d_informaci>17808</codi_d_informaci>
+        <unitat>Policia Local de Masquefa</unitat>
+        <adre_a>C. de Sant Antoni, 6</adre_a>
+        <codi_postal>08783</codi_postal>
+        <municipi>Masquefa</municipi>
+        <codi_municipi>81192</codi_municipi>
+        <utm_x>400766.4510794142</utm_x>
+        <utm_y>4595171.703993289</utm_y>
+        <latitud>41.5020811</latitud>
+        <longitud>1.811014628</longitud>
+        <georefer_ncia>POINT (1.811014628 41.5020811)</georefer_ncia>
+    </row>
+    <row _id="row-prp4-dnn6~tqmt" _uuid="00000000-0000-0000-B53B-DC0817E9D47C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-prp4-dnn6~tqmt">
+        <codi_d_informaci>17747</codi_d_informaci>
+        <unitat>Policia Local de Cabrera de Mar</unitat>
+        <adre_a>Pl. de l' Ajuntament, 5</adre_a>
+        <codi_postal>08349</codi_postal>
+        <municipi>Cabrera de Mar</municipi>
+        <codi_municipi>80291</codi_municipi>
+        <utm_x>449388.5437602985</utm_x>
+        <utm_y>4597319.430402261</utm_y>
+        <latitud>41.525919578</latitud>
+        <longitud>2.393363855</longitud>
+        <georefer_ncia>POINT (2.393363855 41.525919578)</georefer_ncia>
+    </row>
+    <row _id="row-vr9b.94ag-mgam" _uuid="00000000-0000-0000-0BF3-B5BC1E62C98D" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-vr9b.94ag-mgam">
+        <codi_d_informaci>17903</codi_d_informaci>
+        <unitat>Policia Local de Tàrrega</unitat>
+        <adre_a>C. de la Pau, s/n.</adre_a>
+        <codi_postal>25300</codi_postal>
+        <municipi>Tàrrega</municipi>
+        <codi_municipi>252173</codi_municipi>
+        <utm_x>344813.5240469089</utm_x>
+        <utm_y>4612663.381656591</utm_y>
+        <latitud>41.650616456</latitud>
+        <longitud>1.136364749</longitud>
+        <georefer_ncia>POINT (1.136364749 41.650616456)</georefer_ncia>
+    </row>
+    <row _id="row-ank4~mb7g.qiv3" _uuid="00000000-0000-0000-45D4-CD982B0EF3C6" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ank4~mb7g.qiv3">
+        <codi_d_informaci>17890</codi_d_informaci>
+        <unitat>Policia Local de Santa Maria de Palautordera</unitat>
+        <adre_a>Pg. Vitamènia, 81, Torre Sant Josep</adre_a>
+        <codi_postal>08460</codi_postal>
+        <municipi>Santa Maria de Palautordera</municipi>
+        <codi_municipi>82592</codi_municipi>
+        <utm_x>453596.3516577721</utm_x>
+        <utm_y>4615951.822363602</utm_y>
+        <latitud>41.695108072</latitud>
+        <longitud>2.443496707</longitud>
+        <georefer_ncia>POINT (2.443496707 41.695108072)</georefer_ncia>
+    </row>
+    <row _id="row-dmc4-pv4y-ak4s" _uuid="00000000-0000-0000-4880-DF1A519EEA41" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-dmc4-pv4y-ak4s">
+        <codi_d_informaci>17918</codi_d_informaci>
+        <unitat>Policia Local de Vallirana</unitat>
+        <adre_a>C. Major, 368-370</adre_a>
+        <codi_postal>08759</codi_postal>
+        <municipi>Vallirana</municipi>
+        <codi_municipi>82956</codi_municipi>
+        <utm_x>410680.8583239276</utm_x>
+        <utm_y>4582370.802920708</utm_y>
+        <latitud>41.38796</latitud>
+        <longitud>1.931699</longitud>
+        <georefer_ncia>POINT (1.931699 41.38796)</georefer_ncia>
+    </row>
+    <row _id="row-pyg3_zztj-3rem" _uuid="00000000-0000-0000-7F35-61EA02DF9432" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-pyg3_zztj-3rem">
+        <codi_d_informaci>17772</codi_d_informaci>
+        <unitat>Policia Local de Constantí</unitat>
+        <adre_a>C.   Major, 27</adre_a>
+        <codi_postal>43120</codi_postal>
+        <municipi>Constantí</municipi>
+        <codi_municipi>430477</codi_municipi>
+        <utm_x>350113.7380451318</utm_x>
+        <utm_y>4557280.387573877</utm_y>
+        <latitud>41.153007197</latitud>
+        <longitud>1.213695858</longitud>
+        <georefer_ncia>POINT (1.213695858 41.153007197)</georefer_ncia>
+    </row>
+    <row _id="row-9d4k-6e8j.jama" _uuid="00000000-0000-0000-9A95-3372411E18B1" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-9d4k-6e8j.jama">
+        <codi_d_informaci>17826</codi_d_informaci>
+        <unitat>Policia Local de Palafrugell</unitat>
+        <adre_a>Av. de García Lorca, 31</adre_a>
+        <codi_postal>17200</codi_postal>
+        <municipi>Palafrugell</municipi>
+        <codi_municipi>171175</codi_municipi>
+        <utm_x>514196.53594339197</utm_x>
+        <utm_y>4640245.608224445</utm_y>
+        <latitud>41.914038433</latitud>
+        <longitud>3.171184615</longitud>
+        <georefer_ncia>POINT (3.171184615 41.914038433)</georefer_ncia>
+    </row>
+    <row _id="row-ggz8.f499~957w" _uuid="00000000-0000-0000-BCB0-F44EBB6FD8AA" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ggz8.f499~957w">
+        <codi_d_informaci>17724</codi_d_informaci>
+        <unitat>Policia Local de l'Ametlla de Mar</unitat>
+        <adre_a>C. de Sant Joan, 55</adre_a>
+        <codi_postal>43860</codi_postal>
+        <municipi>L'Ametlla de Mar</municipi>
+        <codi_municipi>430136</codi_municipi>
+        <utm_x>314952.27299173153</utm_x>
+        <utm_y>4528346.263501836</utm_y>
+        <latitud>40.885296957</latitud>
+        <longitud>0.803591874</longitud>
+        <georefer_ncia>POINT (0.803591874 40.885296957)</georefer_ncia>
+    </row>
+    <row _id="row-y4bu.ncxw-7zvd" _uuid="00000000-0000-0000-8A9A-40DB6F5C13F9" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-y4bu.ncxw-7zvd">
+        <codi_d_informaci>17759</codi_d_informaci>
+        <unitat>Policia Local de Canovelles</unitat>
+        <adre_a>C. del Pi, 19</adre_a>
+        <codi_postal>08420</codi_postal>
+        <municipi>Canovelles</municipi>
+        <codi_municipi>80410</codi_municipi>
+        <utm_x>440180.8752400858</utm_x>
+        <utm_y>4607435.467949768</utm_y>
+        <latitud>41.616395949</latitud>
+        <longitud>2.281998886</longitud>
+        <georefer_ncia>POINT (2.281998886 41.616395949)</georefer_ncia>
+    </row>
+    <row _id="row-jbkr~2s5m.c65x" _uuid="00000000-0000-0000-3829-E327F9C915FE" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-jbkr~2s5m.c65x">
+        <codi_d_informaci>17803</codi_d_informaci>
+        <unitat>Policia Local de Malgrat de Mar</unitat>
+        <adre_a>C. d' Alexander Fleming, 31</adre_a>
+        <codi_postal>08380</codi_postal>
+        <municipi>Malgrat de Mar</municipi>
+        <codi_municipi>81108</codi_municipi>
+        <utm_x>477946.9392136083</utm_x>
+        <utm_y>4610785.710593447</utm_y>
+        <latitud>41.648605884</latitud>
+        <longitud>2.735148168</longitud>
+        <georefer_ncia>POINT (2.735148168 41.648605884)</georefer_ncia>
+    </row>
+    <row _id="row-abf9_qed6-jnh7" _uuid="00000000-0000-0000-CFFE-E29FF1885832" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-abf9_qed6-jnh7">
+        <codi_d_informaci>17869</codi_d_informaci>
+        <unitat>Policia Local de Sant Fost de Campsentelles</unitat>
+        <adre_a>Pl. de la Vila, 1</adre_a>
+        <codi_postal>08105</codi_postal>
+        <municipi>Sant Fost de Campsentelles</municipi>
+        <codi_municipi>82093</codi_municipi>
+        <utm_x>435995.3457607809</utm_x>
+        <utm_y>4596629.566953787</utm_y>
+        <latitud>41.518747454</latitud>
+        <longitud>2.232916837</longitud>
+        <georefer_ncia>POINT (2.232916837 41.518747454)</georefer_ncia>
+    </row>
+    <row _id="row-rvip.szyv~pwyt" _uuid="00000000-0000-0000-05CA-99F7ABC72E2E" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-rvip.szyv~pwyt">
+        <codi_d_informaci>17796</codi_d_informaci>
+        <unitat>Policia Local de Llagostera</unitat>
+        <adre_a>C. de Tossa, 3</adre_a>
+        <codi_postal>17240</codi_postal>
+        <municipi>Llagostera</municipi>
+        <codi_municipi>170890</codi_municipi>
+        <utm_x>490743.1459436734</utm_x>
+        <utm_y>4630277.001721832</utm_y>
+        <latitud>41.824320198</latitud>
+        <longitud>2.888532114</longitud>
+        <georefer_ncia>POINT (2.888532114 41.824320198)</georefer_ncia>
+    </row>
+    <row _id="row-xnu8-h75m-tygj" _uuid="00000000-0000-0000-77DA-289F8FED69FF" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-xnu8-h75m-tygj">
+        <codi_d_informaci>17814</codi_d_informaci>
+        <unitat>Policia Municipal de Mollet del Vallès</unitat>
+        <adre_a>Pl. de Miquel Martí i Pol, 1</adre_a>
+        <codi_postal>08100</codi_postal>
+        <municipi>Mollet del Vallès</municipi>
+        <codi_municipi>81249</codi_municipi>
+        <utm_x>434573.5</utm_x>
+        <utm_y>4599503.293</utm_y>
+        <latitud>41.544514924</latitud>
+        <longitud>2.21556518</longitud>
+        <georefer_ncia>POINT (2.21556518 41.544514924)</georefer_ncia>
+    </row>
+    <row _id="row-bx9p-4xbw.tjz2" _uuid="00000000-0000-0000-7637-2C3E497A7EDA" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-bx9p-4xbw.tjz2">
+        <codi_d_informaci>17850</codi_d_informaci>
+        <unitat>Policia Local de Rubí</unitat>
+        <adre_a>Ctra. de Terrassa, 118</adre_a>
+        <codi_postal>08191</codi_postal>
+        <municipi>Rubí</municipi>
+        <codi_municipi>81846</codi_municipi>
+        <utm_x>419426.1465478894</utm_x>
+        <utm_y>4595110.813318139</utm_y>
+        <latitud>41.503595441</latitud>
+        <longitud>2.034659404</longitud>
+        <georefer_ncia>POINT (2.034659404 41.503595441)</georefer_ncia>
+    </row>
+    <row _id="row-nmvt~sick~84jg" _uuid="00000000-0000-0000-5AA2-012A36C005DA" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-nmvt~sick~84jg">
+        <codi_d_informaci>17773</codi_d_informaci>
+        <unitat>Policia Local de Corbera de Llobregat</unitat>
+        <adre_a>C. Pau, 3</adre_a>
+        <codi_postal>08757</codi_postal>
+        <municipi>Corbera de Llobregat</municipi>
+        <codi_municipi>80728</codi_municipi>
+        <utm_x>410453.4676339593</utm_x>
+        <utm_y>4585489.42348123</utm_y>
+        <latitud>41.4170963</latitud>
+        <longitud>1.929656387</longitud>
+        <georefer_ncia>POINT (1.929656387 41.4170963)</georefer_ncia>
+    </row>
+    <row _id="row-9zin-cxvq~rr4x" _uuid="00000000-0000-0000-EA5B-ED1F09EA72F2" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-9zin-cxvq~rr4x">
+        <codi_d_informaci>17929</codi_d_informaci>
+        <unitat>Policia Local de Vila-seca</unitat>
+        <adre_a>C. de Sant Antoni, 19</adre_a>
+        <codi_postal>43480</codi_postal>
+        <municipi>Vila-seca</municipi>
+        <codi_municipi>431711</codi_municipi>
+        <utm_x>344223.4581904335</utm_x>
+        <utm_y>4552704.153171357</utm_y>
+        <latitud>41.110696203</latitud>
+        <longitud>1.144693144</longitud>
+        <georefer_ncia>POINT (1.144693144 41.110696203)</georefer_ncia>
+    </row>
+    <row _id="row-ce6q~iyw5~iv6v" _uuid="00000000-0000-0000-0142-233D56870581" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ce6q~iyw5~iv6v">
+        <codi_d_informaci>17854</codi_d_informaci>
+        <unitat>Policia Local de Salt</unitat>
+        <adre_a>C. Pla de Salt, 2</adre_a>
+        <codi_postal>17190</codi_postal>
+        <municipi>Salt</municipi>
+        <codi_municipi>171557</codi_municipi>
+        <utm_x>482233.74473784765</utm_x>
+        <utm_y>4646090.789805166</utm_y>
+        <latitud>41.96840978</latitud>
+        <longitud>2.78679032</longitud>
+        <georefer_ncia>POINT (2.78679032 41.96840978)</georefer_ncia>
+    </row>
+    <row _id="row-ac6u.tndc.n3a5" _uuid="00000000-0000-0000-8292-A5EABE91D6CF" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ac6u.tndc.n3a5">
+        <codi_d_informaci>17746</codi_d_informaci>
+        <unitat>Policia Local de les Borges Blanques</unitat>
+        <adre_a>C. del Carme, 21</adre_a>
+        <codi_postal>25400</codi_postal>
+        <municipi>Les Borges Blanques</municipi>
+        <codi_municipi>250582</codi_municipi>
+        <utm_x>322191.41036510287</utm_x>
+        <utm_y>4598744.744722426</utm_y>
+        <latitud>41.5206095</latitud>
+        <longitud>0.868990643</longitud>
+        <georefer_ncia>POINT (0.868990643 41.5206095)</georefer_ncia>
+    </row>
+    <row _id="row-bnad_2ym4.xcfj" _uuid="00000000-0000-0000-8603-67F248DEA5D0" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-bnad_2ym4.xcfj">
+        <codi_d_informaci>17913</codi_d_informaci>
+        <unitat>Policia Local de Tortosa</unitat>
+        <adre_a>Pl. de la Immaculada, 16</adre_a>
+        <codi_postal>43500</codi_postal>
+        <municipi>Tortosa</municipi>
+        <codi_municipi>431554</codi_municipi>
+        <utm_x>291214.5462570231</utm_x>
+        <utm_y>4521370.184796328</utm_y>
+        <latitud>40.816804371</latitud>
+        <longitud>0.524415114</longitud>
+        <georefer_ncia>POINT (0.524415114 40.816804371)</georefer_ncia>
+    </row>
+    <row _id="row-5k22~eg9h.jn58" _uuid="00000000-0000-0000-B28A-3B6C41C7248D" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-5k22~eg9h.jn58">
+        <codi_d_informaci>17885</codi_d_informaci>
+        <unitat>Policia Local de Santa Coloma de Gramenet</unitat>
+        <adre_a>C. de Sant Jordi, 40</adre_a>
+        <codi_postal>08923</codi_postal>
+        <municipi>Santa Coloma de Gramenet</municipi>
+        <codi_municipi>82457</codi_municipi>
+        <utm_x>434218.1864401112</utm_x>
+        <utm_y>4588120.153244792</utm_y>
+        <latitud>41.441962274</latitud>
+        <longitud>2.212548199</longitud>
+        <georefer_ncia>POINT (2.212548199 41.441962274)</georefer_ncia>
+    </row>
+    <row _id="row-g5iq-36uv~7u8t" _uuid="00000000-0000-0000-E71B-2010C0962DDC" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-g5iq-36uv~7u8t">
+        <codi_d_informaci>17908</codi_d_informaci>
+        <unitat>Policia Local de Tordera</unitat>
+        <adre_a>C. de l' Alcalde Vendrell, 12</adre_a>
+        <codi_postal>08490</codi_postal>
+        <municipi>Tordera</municipi>
+        <codi_municipi>82845</codi_municipi>
+        <utm_x>476415.63236533804</utm_x>
+        <utm_y>4616258.63569763</utm_y>
+        <latitud>41.697760728</latitud>
+        <longitud>2.716562667</longitud>
+        <georefer_ncia>POINT (2.716562667 41.697760728)</georefer_ncia>
+    </row>
+    <row _id="row-jxsr.7awc~65ch" _uuid="00000000-0000-0000-BBBF-004DF9DBB74F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-jxsr.7awc~65ch">
+        <codi_d_informaci>17858</codi_d_informaci>
+        <unitat>Policia Local de Sant Antoni de Vilamajor</unitat>
+        <adre_a>C. Nou, 6</adre_a>
+        <codi_postal>08459</codi_postal>
+        <municipi>Sant Antoni de Vilamajor</municipi>
+        <codi_municipi>81982</codi_municipi>
+        <utm_x>450093.9578359568</utm_x>
+        <utm_y>4613659.687384286</utm_y>
+        <latitud>41.673132304</latitud>
+        <longitud>2.400464831</longitud>
+        <georefer_ncia>POINT (2.400464831 41.673132304)</georefer_ncia>
+    </row>
+    <row _id="row-d7ke-jhph.e4pm" _uuid="00000000-0000-0000-4E67-3D9985EA9FB1" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-d7ke-jhph.e4pm">
+        <codi_d_informaci>17768</codi_d_informaci>
+        <unitat>Policia Local de Castell-Platja d'Aro</unitat>
+        <adre_a>Av. de s' Agaró, 161</adre_a>
+        <codi_postal>17250</codi_postal>
+        <municipi>Castell-Platja d'Aro</municipi>
+        <codi_municipi>170486</codi_municipi>
+        <utm_x>504666.9734945522</utm_x>
+        <utm_y>4628295.195001919</utm_y>
+        <latitud>41.80652964</latitud>
+        <longitud>3.056211974</longitud>
+        <georefer_ncia>POINT (3.056211974 41.80652964)</georefer_ncia>
+    </row>
+    <row _id="row-4y23.k2ez-crds" _uuid="00000000-0000-0000-7B3C-05D3E0ACF839" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-4y23.k2ez-crds">
+        <codi_d_informaci>17819</codi_d_informaci>
+        <unitat>Policia Local de Montornès del Vallès</unitat>
+        <adre_a>Av. de la Llibertat, 2</adre_a>
+        <codi_postal>08170</codi_postal>
+        <municipi>Montornès del Vallès</municipi>
+        <codi_municipi>81363</codi_municipi>
+        <utm_x>438818.46221497667</utm_x>
+        <utm_y>4599539.236044573</utm_y>
+        <latitud>41.545201845</latitud>
+        <longitud>2.266486541</longitud>
+        <georefer_ncia>POINT (2.266486541 41.545201845)</georefer_ncia>
+    </row>
+    <row _id="row-ei64~fhmu_amxc" _uuid="00000000-0000-0000-6477-216F3F5CC730" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ei64~fhmu_amxc">
+        <codi_d_informaci>17928</codi_d_informaci>
+        <unitat>Policia Local de Vilanova i la Geltrú</unitat>
+        <adre_a>C. del Pare Garí, 72</adre_a>
+        <codi_postal>08800</codi_postal>
+        <municipi>Vilanova i la Geltrú</municipi>
+        <codi_municipi>83073</codi_municipi>
+        <utm_x>392891.0193525761</utm_x>
+        <utm_y>4564131.696623009</utm_y>
+        <latitud>41.221516021</latitud>
+        <longitud>1.722105146</longitud>
+        <georefer_ncia>POINT (1.722105146 41.221516021)</georefer_ncia>
+    </row>
+    <row _id="row-7zsh.j7w2.quxf" _uuid="00000000-0000-0000-7E57-4C909BF7B92D" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-7zsh.j7w2.quxf">
+        <codi_d_informaci>17864</codi_d_informaci>
+        <unitat>Policia Local de Sant Cugat del Vallès</unitat>
+        <adre_a>Pl. de Vila, 2</adre_a>
+        <codi_postal>08172</codi_postal>
+        <municipi>Sant Cugat del Vallès</municipi>
+        <codi_municipi>82055</codi_municipi>
+        <utm_x>423578.9468285199</utm_x>
+        <utm_y>4591399.720054923</utm_y>
+        <latitud>41.470557087</latitud>
+        <longitud>2.084788826</longitud>
+        <georefer_ncia>POINT (2.084788826 41.470557087)</georefer_ncia>
+    </row>
+    <row _id="row-ck34_sr5f.mrxm" _uuid="00000000-0000-0000-22ED-C408E60C34CB" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ck34_sr5f.mrxm">
+        <codi_d_informaci>17930</codi_d_informaci>
+        <unitat>Policia Local de Vilassar de Dalt</unitat>
+        <adre_a>Pl. de la Vila, 1</adre_a>
+        <codi_postal>08339</codi_postal>
+        <municipi>Vilassar de Dalt</municipi>
+        <codi_municipi>82140</codi_municipi>
+        <utm_x>446461.97590562695</utm_x>
+        <utm_y>4596355.051112443</utm_y>
+        <latitud>41.517043174</latitud>
+        <longitud>2.358373467</longitud>
+        <georefer_ncia>POINT (2.358373467 41.517043174)</georefer_ncia>
+    </row>
+    <row _id="row-z476_zkjv.r5de" _uuid="00000000-0000-0000-D957-3888E72C0D5B" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-z476_zkjv.r5de">
+        <codi_d_informaci>17901</codi_d_informaci>
+        <unitat>Policia Local de Súria</unitat>
+        <adre_a>C. d' Ernest Solvay, 13</adre_a>
+        <codi_postal>08260</codi_postal>
+        <municipi>Súria</municipi>
+        <codi_municipi>82747</codi_municipi>
+        <utm_x>396551.69014495943</utm_x>
+        <utm_y>4631758.145697441</utm_y>
+        <latitud>41.830958403</latitud>
+        <longitud>1.754192925</longitud>
+        <georefer_ncia>POINT (1.754192925 41.830958403)</georefer_ncia>
+    </row>
+    <row _id="row-w99j_ydky-pn5g" _uuid="00000000-0000-0000-17D1-AE0D9821E5B4" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-w99j_ydky-pn5g">
+        <codi_d_informaci>17717</codi_d_informaci>
+        <unitat>Policia Local d'Abrera</unitat>
+        <adre_a>C. de Tarragona, 2</adre_a>
+        <codi_postal>08630</codi_postal>
+        <municipi>Abrera</municipi>
+        <codi_municipi>80018</codi_municipi>
+        <utm_x>408893.283</utm_x>
+        <utm_y>4597294.763</utm_y>
+        <latitud>41.52211319</latitud>
+        <longitud>1.908051495</longitud>
+        <georefer_ncia>POINT (1.908051495 41.52211319)</georefer_ncia>
+    </row>
+    <row _id="row-v2si~z39h.6enm" _uuid="00000000-0000-0000-8861-7E02ECED6871" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-v2si~z39h.6enm">
+        <codi_d_informaci>17838</codi_d_informaci>
+        <unitat>Policia Local de Premià de Dalt</unitat>
+        <adre_a>Pl. de la Vila, 1</adre_a>
+        <codi_postal>08338</codi_postal>
+        <municipi>Premià de Dalt</municipi>
+        <codi_municipi>82303</codi_municipi>
+        <utm_x>445094.9247592489</utm_x>
+        <utm_y>4595297.146844763</utm_y>
+        <latitud>41.507422237</latitud>
+        <longitud>2.342087547</longitud>
+        <georefer_ncia>POINT (2.342087547 41.507422237)</georefer_ncia>
+    </row>
+    <row _id="row-72hk_fvab~evmu" _uuid="00000000-0000-0000-2CF1-0729B46ADC80" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-72hk_fvab~evmu">
+        <codi_d_informaci>17848</codi_d_informaci>
+        <unitat>Policia Local de Roquetes</unitat>
+        <adre_a>C. de Rebull, 7</adre_a>
+        <codi_postal>43520</codi_postal>
+        <municipi>Roquetes</municipi>
+        <codi_municipi>431331</codi_municipi>
+        <utm_x>289441.0935858779</utm_x>
+        <utm_y>4521644.11667714</utm_y>
+        <latitud>40.818816775</latitud>
+        <longitud>0.503313606</longitud>
+        <georefer_ncia>POINT (0.503313606 40.818816775)</georefer_ncia>
+    </row>
+    <row _id="row-9hd6~tfmp-hs6g" _uuid="00000000-0000-0000-5EBF-5828ECBF1E76" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-9hd6~tfmp-hs6g">
+        <codi_d_informaci>17732</codi_d_informaci>
+        <unitat>Policia Local d'Argentona</unitat>
+        <adre_a>C. de Ramon Par, 4</adre_a>
+        <codi_postal>08310</codi_postal>
+        <municipi>Argentona</municipi>
+        <codi_municipi>80095</codi_municipi>
+        <utm_x>450011.15564147837</utm_x>
+        <utm_y>4600603.22776947</utm_y>
+        <latitud>41.555535528</latitud>
+        <longitud>2.400553094</longitud>
+        <georefer_ncia>POINT (2.400553094 41.555535528)</georefer_ncia>
+    </row>
+    <row _id="row-5hwc~66j7-jeej" _uuid="00000000-0000-0000-FCCA-06035AD59AF7" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-5hwc~66j7-jeej">
+        <codi_d_informaci>17818</codi_d_informaci>
+        <unitat>Policia Local de Montmeló</unitat>
+        <adre_a>Pl. de la Vila, 1</adre_a>
+        <codi_postal>08160</codi_postal>
+        <municipi>Montmeló</municipi>
+        <codi_municipi>81350</codi_municipi>
+        <utm_x>437301.293332366</utm_x>
+        <utm_y>4600260.110673779</utm_y>
+        <latitud>41.551549712</latitud>
+        <longitud>2.248188492</longitud>
+        <georefer_ncia>POINT (2.248188492 41.551549712)</georefer_ncia>
+    </row>
+    <row _id="row-rxpd-i5dv~ma5n" _uuid="00000000-0000-0000-D49B-65CAD922BC32" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-rxpd-i5dv~ma5n">
+        <codi_d_informaci>17904</codi_d_informaci>
+        <unitat>Policia Local de Teià</unitat>
+        <adre_a>Pg. la Riera, 120</adre_a>
+        <codi_postal>08329</codi_postal>
+        <municipi>Teià</municipi>
+        <codi_municipi>82819</codi_municipi>
+        <utm_x>443287.6166174502</utm_x>
+        <utm_y>4594461.603262294</utm_y>
+        <latitud>41.499770736</latitud>
+        <longitud>2.320511188</longitud>
+        <georefer_ncia>POINT (2.320511188 41.499770736)</georefer_ncia>
+    </row>
+    <row _id="row-9ses_b297_qn9w" _uuid="00000000-0000-0000-9A4A-EE58226C7EDE" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-9ses_b297_qn9w">
+        <codi_d_informaci>17859</codi_d_informaci>
+        <unitat>Policia Local de Sant Boi de Llobregat</unitat>
+        <adre_a>C. de la Riera del Fonollar, s/n</adre_a>
+        <codi_postal>08830</codi_postal>
+        <municipi>Sant Boi de Llobregat</municipi>
+        <codi_municipi>82009</codi_municipi>
+        <utm_x>419341.30679186137</utm_x>
+        <utm_y>4575786.375000743</utm_y>
+        <latitud>41.329523183</latitud>
+        <longitud>2.03612611</longitud>
+        <georefer_ncia>POINT (2.03612611 41.329523183)</georefer_ncia>
+    </row>
+    <row _id="row-g72x-8zr5~c4ce" _uuid="00000000-0000-0000-E033-E8506DA0A903" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-g72x-8zr5~c4ce">
+        <codi_d_informaci>17820</codi_d_informaci>
+        <unitat>Policia Local de Mont-roig del Camp</unitat>
+        <adre_a>Av. de Barcelona, 11, Miami Platja</adre_a>
+        <codi_postal>43892</codi_postal>
+        <municipi>Mont-roig del Camp</municipi>
+        <codi_municipi>430923</codi_municipi>
+        <utm_x>327728.2041078939</utm_x>
+        <utm_y>4542884.357104494</utm_y>
+        <latitud>41.018964548</latitud>
+        <longitud>0.951095132</longitud>
+        <georefer_ncia>POINT (0.951095132 41.018964548)</georefer_ncia>
+    </row>
+    <row _id="row-qghf_vmrw-97sh" _uuid="00000000-0000-0000-146E-1F45D4625898" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-qghf_vmrw-97sh">
+        <codi_d_informaci>17880</codi_d_informaci>
+        <unitat>Policia Local de Sant Vicenç de Castellet</unitat>
+        <adre_a>Pl. de l' Ajuntament, 8</adre_a>
+        <codi_postal>08295</codi_postal>
+        <municipi>Sant Vicenç de Castellet</municipi>
+        <codi_municipi>82628</codi_municipi>
+        <utm_x>405414.9556689766</utm_x>
+        <utm_y>4613278.076795283</utm_y>
+        <latitud>41.665648148</latitud>
+        <longitud>1.863848562</longitud>
+        <georefer_ncia>POINT (1.863848562 41.665648148)</georefer_ncia>
+    </row>
+    <row _id="row-wbxs.74px-i2xs" _uuid="00000000-0000-0000-1218-A781517E6BCA" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-wbxs.74px-i2xs">
+        <codi_d_informaci>17770</codi_d_informaci>
+        <unitat>Policia Local de Cervelló</unitat>
+        <adre_a>C.   Vidriers, 5</adre_a>
+        <codi_postal>08758</codi_postal>
+        <municipi>Cervelló</municipi>
+        <codi_municipi>80689</codi_municipi>
+        <utm_x>412367.79215226456</utm_x>
+        <utm_y>4582926.039981925</utm_y>
+        <latitud>41.393096193</latitud>
+        <longitud>1.951773825</longitud>
+        <georefer_ncia>POINT (1.951773825 41.393096193)</georefer_ncia>
+    </row>
+    <row _id="row-44ss_rfkc_rxks" _uuid="00000000-0000-0000-510E-2AB00F1DD12A" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-44ss_rfkc_rxks">
+        <codi_d_informaci>17787</codi_d_informaci>
+        <unitat>Policia Local de Gelida</unitat>
+        <adre_a>C. de la Barceloneta, 12-18</adre_a>
+        <codi_postal>08790</codi_postal>
+        <municipi>Gelida</municipi>
+        <codi_municipi>80919</codi_municipi>
+        <utm_x>405010.7347130805</utm_x>
+        <utm_y>4588325.355174958</utm_y>
+        <latitud>41.440900072</latitud>
+        <longitud>1.862964144</longitud>
+        <georefer_ncia>POINT (1.862964144 41.440900072)</georefer_ncia>
+    </row>
+    <row _id="row-zqyr~jprn.7cnm" _uuid="00000000-0000-0000-ADCD-B10834613546" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-zqyr~jprn.7cnm">
+        <codi_d_informaci>17840</codi_d_informaci>
+        <unitat>Policia Local de Puigcerdà</unitat>
+        <adre_a>C. de Querol, 23</adre_a>
+        <codi_postal>17520</codi_postal>
+        <municipi>Puigcerdà</municipi>
+        <codi_municipi>171411</codi_municipi>
+        <utm_x>411690.852</utm_x>
+        <utm_y>4698320.157</utm_y>
+        <latitud>42.432174593</latitud>
+        <longitud>1.926401957</longitud>
+        <georefer_ncia>POINT (1.926401957 42.432174593)</georefer_ncia>
+    </row>
+    <row _id="row-5mi3-gtuk_rjx6" _uuid="00000000-0000-0000-A8EA-0195E3F19EAA" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-5mi3-gtuk_rjx6">
+        <codi_d_informaci>17834</codi_d_informaci>
+        <unitat>Policia Local de Piera</unitat>
+        <adre_a>C. de Folch i Torres, 35</adre_a>
+        <codi_postal>08784</codi_postal>
+        <municipi>Piera</municipi>
+        <codi_municipi>81614</codi_municipi>
+        <utm_x>395672.48249791306</utm_x>
+        <utm_y>4597453.916182261</utm_y>
+        <latitud>41.521939419</latitud>
+        <longitud>1.749562131</longitud>
+        <georefer_ncia>POINT (1.749562131 41.521939419)</georefer_ncia>
+    </row>
+    <row _id="row-2jq7_44ex_a2su" _uuid="00000000-0000-0000-12D6-FE3FAA10EE0F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-2jq7_44ex_a2su">
+        <codi_d_informaci>17728</codi_d_informaci>
+        <unitat>Policia Local de l'Arboç</unitat>
+        <adre_a>Av. dels Herois de 1808, 72</adre_a>
+        <codi_postal>43720</codi_postal>
+        <municipi>L'Arboç</municipi>
+        <codi_municipi>430167</codi_municipi>
+        <utm_x>383070.76930312905</utm_x>
+        <utm_y>4569163.135935193</utm_y>
+        <latitud>41.26543522</latitud>
+        <longitud>1.60406884</longitud>
+        <georefer_ncia>POINT (1.60406884 41.26543522)</georefer_ncia>
+    </row>
+    <row _id="row-5pn2_5te9.vyhr" _uuid="00000000-0000-0000-0E32-F9C16084DFAA" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-5pn2_5te9.vyhr">
+        <codi_d_informaci>17760</codi_d_informaci>
+        <unitat>Policia Local de Capellades</unitat>
+        <adre_a>Pg. Inmaculada Concepció, 23</adre_a>
+        <codi_postal>08786</codi_postal>
+        <municipi>Capellades</municipi>
+        <codi_municipi>80446</codi_municipi>
+        <utm_x>390183.0090509312</utm_x>
+        <utm_y>4598121.333868512</utm_y>
+        <latitud>41.527208943</latitud>
+        <longitud>1.683702936</longitud>
+        <georefer_ncia>POINT (1.683702936 41.527208943)</georefer_ncia>
+    </row>
+    <row _id="row-wuru-i6ve-5jbz" _uuid="00000000-0000-0000-8052-D523C617BCA1" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-wuru-i6ve-5jbz">
+        <codi_d_informaci>17729</codi_d_informaci>
+        <unitat>Policia Local d'Arbúcies</unitat>
+        <adre_a>C. del Castell, 92</adre_a>
+        <codi_postal>17401</codi_postal>
+        <municipi>Arbúcies</municipi>
+        <codi_municipi>170097</codi_municipi>
+        <utm_x>459935.05269960954</utm_x>
+        <utm_y>4629291.384950615</utm_y>
+        <latitud>41.814484081</latitud>
+        <longitud>2.51762598</longitud>
+        <georefer_ncia>POINT (2.51762598 41.814484081)</georefer_ncia>
+    </row>
+    <row _id="row-8ra7_jm2r_i6w2" _uuid="00000000-0000-0000-6B8D-7B20876378C7" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-8ra7_jm2r_i6w2">
+        <codi_d_informaci>17867</codi_d_informaci>
+        <unitat>Policia Local de Sant Feliu de Guíxols</unitat>
+        <adre_a>C. d' El Callao, s/n</adre_a>
+        <codi_postal>17220</codi_postal>
+        <municipi>Sant Feliu de Guíxols</municipi>
+        <codi_municipi>171609</codi_municipi>
+        <utm_x>502220.9169086511</utm_x>
+        <utm_y>4625422.915108155</utm_y>
+        <latitud>41.780650518</latitud>
+        <longitud>3.026725376</longitud>
+        <georefer_ncia>POINT (3.026725376 41.780650518)</georefer_ncia>
+    </row>
+    <row _id="row-sdgu_qwhu.5q2m" _uuid="00000000-0000-0000-0BA1-B54C12031E6E" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-sdgu_qwhu.5q2m">
+        <codi_d_informaci>17781</codi_d_informaci>
+        <unitat>Policia Local d'Esparreguera</unitat>
+        <adre_a>Pg. dels Jocs Olímpics, 11</adre_a>
+        <codi_postal>08292</codi_postal>
+        <municipi>Esparreguera</municipi>
+        <codi_municipi>80765</codi_municipi>
+        <utm_x>406095.0944331002</utm_x>
+        <utm_y>4598742.30809808</utm_y>
+        <latitud>41.535947596</latitud>
+        <longitud>1.875453259</longitud>
+        <georefer_ncia>POINT (1.875453259 41.535947596)</georefer_ncia>
+    </row>
+    <row _id="row-rjz9~8k7y_2fvy" _uuid="00000000-0000-0000-6372-262FD5A007D8" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-rjz9~8k7y_2fvy">
+        <codi_d_informaci>17868</codi_d_informaci>
+        <unitat>Policia Local de Sant Feliu de Llobregat</unitat>
+        <adre_a>C. d' Eugeni d'Ors, 3</adre_a>
+        <codi_postal>08980</codi_postal>
+        <municipi>Sant Feliu de Llobregat</municipi>
+        <codi_municipi>82114</codi_municipi>
+        <utm_x>420106.4118957672</utm_x>
+        <utm_y>4581706.318373933</utm_y>
+        <latitud>41.382937176</latitud>
+        <longitud>2.044477856</longitud>
+        <georefer_ncia>POINT (2.044477856 41.382937176)</georefer_ncia>
+    </row>
+    <row _id="row-swjn-zxnu-mj9a" _uuid="00000000-0000-0000-424F-3124DE3BB6A0" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-swjn-zxnu-mj9a">
+        <codi_d_informaci>17775</codi_d_informaci>
+        <unitat>Policia Local de Creixell</unitat>
+        <adre_a>C. de Girona, 26</adre_a>
+        <codi_postal>43839</codi_postal>
+        <municipi>Creixell</municipi>
+        <codi_municipi>430509</codi_municipi>
+        <utm_x>369351.8374079195</utm_x>
+        <utm_y>4558273.536144289</utm_y>
+        <latitud>41.165277181</latitud>
+        <longitud>1.442671638</longitud>
+        <georefer_ncia>POINT (1.442671638 41.165277181)</georefer_ncia>
+    </row>
+    <row _id="row-48mz-r99f_t4xf" _uuid="00000000-0000-0000-169D-DE3C6509AD2D" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-48mz-r99f_t4xf">
+        <codi_d_informaci>17828</codi_d_informaci>
+        <unitat>Policia Local de Palau-solità i Plegamans</unitat>
+        <adre_a>Pg. de la Carrerada, 51</adre_a>
+        <codi_postal>08184</codi_postal>
+        <municipi>Palau-solità i Plegamans</municipi>
+        <codi_municipi>81568</codi_municipi>
+        <utm_x>431366.8256786261</utm_x>
+        <utm_y>4604154.298739301</utm_y>
+        <latitud>41.586135158</latitud>
+        <longitud>2.176590621</longitud>
+        <georefer_ncia>POINT (2.176590621 41.586135158)</georefer_ncia>
+    </row>
+    <row _id="row-ntkg~58y5-pk2j" _uuid="00000000-0000-0000-CED9-7D096207969D" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ntkg~58y5-pk2j">
+        <codi_d_informaci>17875</codi_d_informaci>
+        <unitat>Policia Local de Sant Just Desvern</unitat>
+        <adre_a>C. Can Pedroseta, s/n</adre_a>
+        <codi_postal>08960</codi_postal>
+        <municipi>Sant Just Desvern</municipi>
+        <codi_municipi>82212</codi_municipi>
+        <utm_x>422680.3895777295</utm_x>
+        <utm_y>4582192.801598092</utm_y>
+        <latitud>41.38867523</latitud>
+        <longitud>2.076358619</longitud>
+        <georefer_ncia>POINT (2.076358619 41.38867523)</georefer_ncia>
+    </row>
+    <row _id="row-bc3x.8e3e_93q5" _uuid="00000000-0000-0000-D401-FE6C26E6D1A8" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-bc3x.8e3e_93q5">
+        <codi_d_informaci>17824</codi_d_informaci>
+        <unitat>Policia Local d'Olot</unitat>
+        <adre_a>Pl. de Can Joanetes, 11, / C. del Mirador, s/n</adre_a>
+        <codi_postal>17800</codi_postal>
+        <municipi>Olot</municipi>
+        <codi_municipi>171143</codi_municipi>
+        <utm_x>457437.9978528188</utm_x>
+        <utm_y>4670283.021451574</utm_y>
+        <latitud>42.18353714</latitud>
+        <longitud>2.484592503</longitud>
+        <georefer_ncia>POINT (2.484592503 42.18353714)</georefer_ncia>
+    </row>
+    <row _id="row-z7ph~yya6_xrgr" _uuid="00000000-0000-0000-89D4-E6B78C4B66DC" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-z7ph~yya6_xrgr">
+        <codi_d_informaci>17735</codi_d_informaci>
+        <unitat>Policia Local de Badia del Vallès</unitat>
+        <adre_a>Av. de burgos, s/n</adre_a>
+        <codi_postal>08214</codi_postal>
+        <municipi>Badia del Vallès</municipi>
+        <codi_municipi>89045</codi_municipi>
+        <utm_x>426056.1328901016</utm_x>
+        <utm_y>4595646.2858432215</utm_y>
+        <latitud>41.509092498</latitud>
+        <longitud>2.113950489</longitud>
+        <georefer_ncia>POINT (2.113950489 41.509092498)</georefer_ncia>
+    </row>
+    <row _id="row-edhq_9ahy.5yvh" _uuid="00000000-0000-0000-DF24-0B49B6117D00" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-edhq_9ahy.5yvh">
+        <codi_d_informaci>17723</codi_d_informaci>
+        <unitat>Policia Local d'Altafulla</unitat>
+        <adre_a>C. del Marquès de Tamarit, 16, local A</adre_a>
+        <codi_postal>43893</codi_postal>
+        <municipi>Altafulla</municipi>
+        <codi_municipi>430120</codi_municipi>
+        <utm_x>363597.5480710085</utm_x>
+        <utm_y>4555582.891633407</utm_y>
+        <latitud>41.141237827</latitud>
+        <longitud>1.37587575</longitud>
+        <georefer_ncia>POINT (1.37587575 41.141237827)</georefer_ncia>
+    </row>
+    <row _id="row-rh6r_h47g~d2fw" _uuid="00000000-0000-0000-A95E-07425D347115" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-rh6r_h47g~d2fw">
+        <codi_d_informaci>17809</codi_d_informaci>
+        <unitat>Policia Local de Matadepera</unitat>
+        <adre_a>C. Joan Paloma, 1</adre_a>
+        <codi_postal>08230</codi_postal>
+        <municipi>Matadepera</municipi>
+        <codi_municipi>81206</codi_municipi>
+        <utm_x>418899.09329975187</utm_x>
+        <utm_y>4605465.851371889</utm_y>
+        <latitud>41.597897602</latitud>
+        <longitud>2.028008754</longitud>
+        <georefer_ncia>POINT (2.028008754 41.597897602)</georefer_ncia>
+    </row>
+    <row _id="row-d7zu~d7gr~kcaz" _uuid="00000000-0000-0000-87C5-3959798CC666" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-d7zu~d7gr~kcaz">
+        <codi_d_informaci>17894</codi_d_informaci>
+        <unitat>Policia Local de Sarrià de Ter</unitat>
+        <adre_a>C.   Major de Sarrià, 71-73</adre_a>
+        <codi_postal>17840</codi_postal>
+        <municipi>Sarrià de Ter</municipi>
+        <codi_municipi>171864</codi_municipi>
+        <utm_x>485511.14914811455</utm_x>
+        <utm_y>4651669.544587255</utm_y>
+        <latitud>42.016919088</latitud>
+        <longitud>2.825004782</longitud>
+        <georefer_ncia>POINT (2.825004782 42.016919088)</georefer_ncia>
+    </row>
+    <row _id="row-g543~dh7u.f959" _uuid="00000000-0000-0000-14C5-A2FFB7AFD46C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-g543~dh7u.f959">
+        <codi_d_informaci>17745</codi_d_informaci>
+        <unitat>Policia Local de Blanes</unitat>
+        <adre_a>Av. de Joan Carles I, 120</adre_a>
+        <codi_postal>17300</codi_postal>
+        <municipi>Blanes</municipi>
+        <codi_municipi>170237</codi_municipi>
+        <utm_x>482861.524672735</utm_x>
+        <utm_y>4614718.410401313</utm_y>
+        <latitud>41.684052716</latitud>
+        <longitud>2.794073182</longitud>
+        <georefer_ncia>POINT (2.794073182 41.684052716)</georefer_ncia>
+    </row>
+    <row _id="row-6r7h.kk9p-srd4" _uuid="00000000-0000-0000-9E8A-142C1CCC1B84" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-6r7h.kk9p-srd4">
+        <codi_d_informaci>17889</codi_d_informaci>
+        <unitat>Policia Local de Santa Margarida i els Monjos</unitat>
+        <adre_a>Av. de Catalunya, 74</adre_a>
+        <codi_postal>08730</codi_postal>
+        <municipi>Santa Margarida i els Monjos</municipi>
+        <codi_municipi>82515</codi_municipi>
+        <utm_x>388088.43617458537</utm_x>
+        <utm_y>4575237.842281948</utm_y>
+        <latitud>41.320969729</latitud>
+        <longitud>1.66283389</longitud>
+        <georefer_ncia>POINT (1.66283389 41.320969729)</georefer_ncia>
+    </row>
+    <row _id="row-ehu7_c4xw_warc" _uuid="00000000-0000-0000-AE4E-ABAC4B52B721" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ehu7_c4xw_warc">
+        <codi_d_informaci>17917</codi_d_informaci>
+        <unitat>Policia Local de Vacarisses</unitat>
+        <adre_a>C. de Pau Casals, 17</adre_a>
+        <codi_postal>08233</codi_postal>
+        <municipi>Vacarisses</municipi>
+        <codi_municipi>82917</codi_municipi>
+        <utm_x>409906.7619356125</utm_x>
+        <utm_y>4606596.367354131</utm_y>
+        <latitud>41.60595645</latitud>
+        <longitud>1.918768023</longitud>
+        <georefer_ncia>POINT (1.918768023 41.60595645)</georefer_ncia>
+    </row>
+    <row _id="row-gy35.uh5x~zei7" _uuid="00000000-0000-0000-861C-040E03097FB1" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-gy35.uh5x~zei7">
+        <codi_d_informaci>17846</codi_d_informaci>
+        <unitat>Policia Local de la Roca del Vallès</unitat>
+        <adre_a>C. de Catalunya, 24</adre_a>
+        <codi_postal>08430</codi_postal>
+        <municipi>La Roca del Vallès</municipi>
+        <codi_municipi>81810</codi_municipi>
+        <utm_x>443801.7041026205</utm_x>
+        <utm_y>4604173.360419013</utm_y>
+        <latitud>41.587278435</latitud>
+        <longitud>2.325762152</longitud>
+        <georefer_ncia>POINT (2.325762152 41.587278435)</georefer_ncia>
+    </row>
+    <row _id="row-nycf.f72i-8vy2" _uuid="00000000-0000-0000-2D91-4B075DB86C09" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-nycf.f72i-8vy2">
+        <codi_d_informaci>17750</codi_d_informaci>
+        <unitat>Policia Local de Calafell</unitat>
+        <adre_a>Ctra. de l' Estació, 18</adre_a>
+        <codi_postal>43820</codi_postal>
+        <municipi>Calafell</municipi>
+        <codi_municipi>430379</codi_municipi>
+        <utm_x>380326.4498425342</utm_x>
+        <utm_y>4561096.500251036</utm_y>
+        <latitud>41.192384</latitud>
+        <longitud>1.572911</longitud>
+        <georefer_ncia>POINT (1.572911 41.192384)</georefer_ncia>
+    </row>
+    <row _id="row-drcc~pk6y~ybh6" _uuid="00000000-0000-0000-6C81-1B12214680EF" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-drcc~pk6y~ybh6">
+        <codi_d_informaci>17916</codi_d_informaci>
+        <unitat>Policia Local d'Ulldecona</unitat>
+        <adre_a>C. Major, 49</adre_a>
+        <codi_postal>43550</codi_postal>
+        <municipi>Ulldecona</municipi>
+        <codi_municipi>431567</codi_municipi>
+        <utm_x>284109.5264598927</utm_x>
+        <utm_y>4497280.441356406</utm_y>
+        <latitud>40.598111</latitud>
+        <longitud>0.44862</longitud>
+        <georefer_ncia>POINT (0.44862 40.598111)</georefer_ncia>
+    </row>
+    <row _id="row-gs6r-waps-rf44" _uuid="00000000-0000-0000-CB05-130C9BE43E73" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-gs6r-waps-rf44">
+        <codi_d_informaci>17874</codi_d_informaci>
+        <unitat>Policia Local de Sant Joan Despí</unitat>
+        <adre_a>Camí del Mig, 9-11</adre_a>
+        <codi_postal>08970</codi_postal>
+        <municipi>Sant Joan Despí</municipi>
+        <codi_municipi>82172</codi_municipi>
+        <utm_x>420969.4034924647</utm_x>
+        <utm_y>4580027.072222422</utm_y>
+        <latitud>41.367878151</latitud>
+        <longitud>2.055027213</longitud>
+        <georefer_ncia>POINT (2.055027213 41.367878151)</georefer_ncia>
+    </row>
+    <row _id="row-9quk.wvrd.9ehk" _uuid="00000000-0000-0000-80A2-B7C485F2EB23" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-9quk.wvrd.9ehk">
+        <codi_d_informaci>20393</codi_d_informaci>
+        <unitat>Policia Local de Vidreres</unitat>
+        <adre_a>C. Lloret, 63</adre_a>
+        <codi_postal>17411</codi_postal>
+        <municipi>Vidreres</municipi>
+        <codi_municipi>172137</codi_municipi>
+        <utm_x>481493.325</utm_x>
+        <utm_y>4626518.289</utm_y>
+        <latitud>41.790333165</latitud>
+        <longitud>2.777264191</longitud>
+        <georefer_ncia>POINT (2.777264191 41.790333165)</georefer_ncia>
+    </row>
+    <row _id="row-39en~us9b.irqt" _uuid="00000000-0000-0000-D5E9-C8D2C8106DDF" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-39en~us9b.irqt">
+        <codi_d_informaci>17743</codi_d_informaci>
+        <unitat>Policia Local de Bigues i Riells del Fai</unitat>
+        <adre_a>Av. de Prat de la Riba, 167</adre_a>
+        <codi_postal>08415</codi_postal>
+        <municipi>Bigues i Riells del Fai</municipi>
+        <codi_municipi>80235</codi_municipi>
+        <utm_x>434140.1489120918</utm_x>
+        <utm_y>4614425.595621555</utm_y>
+        <latitud>41.678875882</latitud>
+        <longitud>2.208729192</longitud>
+        <georefer_ncia>POINT (2.208729192 41.678875882)</georefer_ncia>
+    </row>
+    <row _id="row-y6hh_qgrq.5ug2" _uuid="00000000-0000-0000-4F60-A61E80924BA6" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-y6hh_qgrq.5ug2">
+        <codi_d_informaci>17925</codi_d_informaci>
+        <unitat>Policia Local de Vilafranca del Penedès</unitat>
+        <adre_a>C. del Pati del Gall, 16</adre_a>
+        <codi_postal>08720</codi_postal>
+        <municipi>Vilafranca del Penedès</municipi>
+        <codi_municipi>83054</codi_municipi>
+        <utm_x>391490.6810623367</utm_x>
+        <utm_y>4578349.904292383</utm_y>
+        <latitud>41.34934095</latitud>
+        <longitud>1.702923502</longitud>
+        <georefer_ncia>POINT (1.702923502 41.34934095)</georefer_ncia>
+    </row>
+    <row _id="row-7td2_f5k6_62x2" _uuid="00000000-0000-0000-8A82-A1660CB9E769" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-7td2_f5k6_62x2">
+        <codi_d_informaci>17793</codi_d_informaci>
+        <unitat>Policia Local d'Igualada</unitat>
+        <adre_a>Av. de  Pau Casals, 10 , (edifici 092)</adre_a>
+        <codi_postal>08700</codi_postal>
+        <municipi>Igualada</municipi>
+        <codi_municipi>81022</codi_municipi>
+        <utm_x>385710.9820224478</utm_x>
+        <utm_y>4603776.025567273</utm_y>
+        <latitud>41.577514</latitud>
+        <longitud>1.629093</longitud>
+        <georefer_ncia>POINT (1.629093 41.577514)</georefer_ncia>
+    </row>
+    <row _id="row-zzr9_yqr9.jukm" _uuid="00000000-0000-0000-CD8E-8051CA1A3D45" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-zzr9_yqr9.jukm">
+        <codi_d_informaci>17931</codi_d_informaci>
+        <unitat>Policia Local de Vilassar de Mar</unitat>
+        <adre_a>Av. Progrés, 30</adre_a>
+        <codi_postal>08340</codi_postal>
+        <municipi>Vilassar de Mar</municipi>
+        <codi_municipi>82191</codi_municipi>
+        <utm_x>448292.6968224516</utm_x>
+        <utm_y>4595706.41021615</utm_y>
+        <latitud>41.512441471</latitud>
+        <longitud>2.381511958</longitud>
+        <georefer_ncia>POINT (2.381511958 41.512441471)</georefer_ncia>
+    </row>
+    <row _id="row-riwu~25hp-cbdm" _uuid="00000000-0000-0000-B59A-47A431C6471C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-riwu~25hp-cbdm">
+        <codi_d_informaci>17837</codi_d_informaci>
+        <unitat>Policia Local del Prat de Llobregat</unitat>
+        <adre_a>C. del Riu Llobregat, 2-4</adre_a>
+        <codi_postal>08820</codi_postal>
+        <municipi>El Prat de Llobregat</municipi>
+        <codi_municipi>81691</codi_municipi>
+        <utm_x>423195.8369010515</utm_x>
+        <utm_y>4574485.9527382245</utm_y>
+        <latitud>41.318194247</latitud>
+        <longitud>2.08237553</longitud>
+        <georefer_ncia>POINT (2.08237553 41.318194247)</georefer_ncia>
+    </row>
+    <row _id="row-m5bn_s9pm~237j" _uuid="00000000-0000-0000-A603-737A4C7BF9B8" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-m5bn_s9pm~237j">
+        <codi_d_informaci>17924</codi_d_informaci>
+        <unitat>Policia Local de Viladecavalls</unitat>
+        <adre_a>C. de les Orenetes, s/n.</adre_a>
+        <codi_postal>08232</codi_postal>
+        <municipi>Viladecavalls</municipi>
+        <codi_municipi>83008</codi_municipi>
+        <utm_x>412753.3214505791</utm_x>
+        <utm_y>4600810.756785651</utm_y>
+        <latitud>41.554207771</latitud>
+        <longitud>1.953797727</longitud>
+        <georefer_ncia>POINT (1.953797727 41.554207771)</georefer_ncia>
+    </row>
+    <row _id="row-3fsz-777r_6ada" _uuid="00000000-0000-0000-9D27-BE3D7F9B8C02" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-3fsz-777r_6ada">
+        <codi_d_informaci>17883</codi_d_informaci>
+        <unitat>Policia Local de Santa Coloma de Cervelló</unitat>
+        <adre_a>C. de Pau Casals, 26-34</adre_a>
+        <codi_postal>08690</codi_postal>
+        <municipi>Santa Coloma de Cervelló</municipi>
+        <codi_municipi>82444</codi_municipi>
+        <utm_x>417711.55349961575</utm_x>
+        <utm_y>4580166.539157645</utm_y>
+        <latitud>41.368851497</latitud>
+        <longitud>2.016036589</longitud>
+        <georefer_ncia>POINT (2.016036589 41.368851497)</georefer_ncia>
+    </row>
+    <row _id="row-x7ju~nx5b~hwkp" _uuid="00000000-0000-0000-C52A-D46D10EFD178" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-x7ju~nx5b~hwkp">
+        <codi_d_informaci>17721</codi_d_informaci>
+        <unitat>Policia Local d'Alella</unitat>
+        <adre_a>Pg. de Marià Estrada, 8</adre_a>
+        <codi_postal>08328</codi_postal>
+        <municipi>Alella</municipi>
+        <codi_municipi>80039</codi_municipi>
+        <utm_x>440971.25536040583</utm_x>
+        <utm_y>4594505.662906035</utm_y>
+        <latitud>41.500000269</latitud>
+        <longitud>2.292755814</longitud>
+        <georefer_ncia>POINT (2.292755814 41.500000269)</georefer_ncia>
+    </row>
+    <row _id="row-dzjc_2bhn_66cs" _uuid="00000000-0000-0000-4C2F-49AC13E49E1C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-dzjc_2bhn_66cs">
+        <codi_d_informaci>17847</codi_d_informaci>
+        <unitat>Policia Local de Roda de Berà</unitat>
+        <adre_a>C. de Joan Carles I, 19</adre_a>
+        <codi_postal>43883</codi_postal>
+        <municipi>Roda de Berà</municipi>
+        <codi_municipi>431310</codi_municipi>
+        <utm_x>370715.794</utm_x>
+        <utm_y>4560542.055</utm_y>
+        <latitud>41.185923151</latitud>
+        <longitud>1.458445423</longitud>
+        <georefer_ncia>POINT (1.458445423 41.185923151)</georefer_ncia>
+    </row>
+    <row _id="row-7kbv_wwjb.6d3s" _uuid="00000000-0000-0000-8DB5-43AFFF7AEE47" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-7kbv_wwjb.6d3s">
+        <codi_d_informaci>17872</codi_d_informaci>
+        <unitat>Policia Local de Sant Joan de les Abadesses</unitat>
+        <adre_a>Pl.   Major, 3</adre_a>
+        <codi_postal>17860</codi_postal>
+        <municipi>Sant Joan de les Abadesses</municipi>
+        <codi_municipi>171674</codi_municipi>
+        <utm_x>440993.7796442379</utm_x>
+        <utm_y>4675856.250863229</utm_y>
+        <latitud>42.232660213</latitud>
+        <longitud>2.284907154</longitud>
+        <georefer_ncia>POINT (2.284907154 42.232660213)</georefer_ncia>
+    </row>
+    <row _id="row-anpc~2xj4~xpwh" _uuid="00000000-0000-0000-213B-8165F01F49DA" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-anpc~2xj4~xpwh">
+        <codi_d_informaci>17779</codi_d_informaci>
+        <unitat>Policia Local de Dosrius</unitat>
+        <adre_a>C. de Sant Antoni, 1</adre_a>
+        <codi_postal>08319</codi_postal>
+        <municipi>Dosrius</municipi>
+        <codi_municipi>80752</codi_municipi>
+        <utm_x>450486.80233651784</utm_x>
+        <utm_y>4604946.886895016</utm_y>
+        <latitud>41.594687813</latitud>
+        <longitud>2.405898167</longitud>
+        <georefer_ncia>POINT (2.405898167 41.594687813)</georefer_ncia>
+    </row>
+    <row _id="row-45bn.fkmu~2tes" _uuid="00000000-0000-0000-474C-EE1B7BE11C17" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-45bn.fkmu~2tes">
+        <codi_d_informaci>17782</codi_d_informaci>
+        <unitat>Policia Local d'Esplugues de Llobregat</unitat>
+        <adre_a>C. Manuel de Falla, 22</adre_a>
+        <codi_postal>08950</codi_postal>
+        <municipi>Esplugues de Llobregat</municipi>
+        <codi_municipi>80771</codi_municipi>
+        <utm_x>422900.77945826255</utm_x>
+        <utm_y>4580814.0677882545</utm_y>
+        <latitud>41.37627923</latitud>
+        <longitud>2.079169539</longitud>
+        <georefer_ncia>POINT (2.079169539 41.37627923)</georefer_ncia>
+    </row>
+    <row _id="row-ytw3.zunt.jear" _uuid="00000000-0000-0000-5A83-3C2AF9FD47F4" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ytw3.zunt.jear">
+        <codi_d_informaci>17780</codi_d_informaci>
+        <unitat>Policia Local de l'Escala</unitat>
+        <adre_a>C. del Garbí, s/n</adre_a>
+        <codi_postal>17130</codi_postal>
+        <municipi>L'Escala</municipi>
+        <codi_municipi>170622</codi_municipi>
+        <utm_x>511258.4073325093</utm_x>
+        <utm_y>4663170.695061203</utm_y>
+        <latitud>42.120557441</latitud>
+        <longitud>3.136199544</longitud>
+        <georefer_ncia>POINT (3.136199544 42.120557441)</georefer_ncia>
+    </row>
+    <row _id="row-zc7u_wn7y.zjbc" _uuid="00000000-0000-0000-96D9-0D1B8C900676" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-zc7u_wn7y.zjbc">
+        <codi_d_informaci>17801</codi_d_informaci>
+        <unitat>Policia Local de Llinars del Vallès</unitat>
+        <adre_a>Av. de Pau Casals, 64</adre_a>
+        <codi_postal>08450</codi_postal>
+        <municipi>Llinars del Vallès</municipi>
+        <codi_municipi>81069</codi_municipi>
+        <utm_x>449613.10819593247</utm_x>
+        <utm_y>4609983.319332803</utm_y>
+        <latitud>41.639995137</latitud>
+        <longitud>2.39499159</longitud>
+        <georefer_ncia>POINT (2.39499159 41.639995137)</georefer_ncia>
+    </row>
+    <row _id="row-a82v~2mxi.rim8" _uuid="00000000-0000-0000-7023-FA0538A3432E" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-a82v~2mxi.rim8">
+        <codi_d_informaci>17842</codi_d_informaci>
+        <unitat>Policia Local de Ribes de Freser</unitat>
+        <adre_a>Pl. de l' Ajuntament, 3</adre_a>
+        <codi_postal>17534</codi_postal>
+        <municipi>Ribes de Freser</municipi>
+        <codi_municipi>171450</codi_municipi>
+        <utm_x>431304.00761719263</utm_x>
+        <utm_y>4683895.275848448</utm_y>
+        <latitud>42.30607167</latitud>
+        <longitud>2.167724817</longitud>
+        <georefer_ncia>POINT (2.167724817 42.30607167)</georefer_ncia>
+    </row>
+    <row _id="row-atb9-xaku_z683" _uuid="00000000-0000-0000-20F6-8CF4605F7B5F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-atb9-xaku_z683">
+        <codi_d_informaci>17825</codi_d_informaci>
+        <unitat>Policia Local de Palafolls</unitat>
+        <adre_a>C. Major, 11</adre_a>
+        <codi_postal>08389</codi_postal>
+        <municipi>Palafolls</municipi>
+        <codi_municipi>81555</codi_municipi>
+        <utm_x>479103.02108847845</utm_x>
+        <utm_y>4612905.304107931</utm_y>
+        <latitud>41.668745936</latitud>
+        <longitud>2.750110747</longitud>
+        <georefer_ncia>POINT (2.750110747 41.668745936)</georefer_ncia>
+    </row>
+    <row _id="row-skw5~bfsu~ijea" _uuid="00000000-0000-0000-BB64-CEC4B2889CF5" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-skw5~bfsu~ijea">
+        <codi_d_informaci>17771</codi_d_informaci>
+        <unitat>Policia Local de Cervera</unitat>
+        <adre_a>Pl.   Major, 1, (Edifici de la Paeria)</adre_a>
+        <codi_postal>25200</codi_postal>
+        <municipi>Cervera</municipi>
+        <codi_municipi>250729</codi_municipi>
+        <utm_x>356057.07231699023</utm_x>
+        <utm_y>4614091.75256057</utm_y>
+        <latitud>41.665585842</latitud>
+        <longitud>1.27098309</longitud>
+        <georefer_ncia>POINT (1.27098309 41.665585842)</georefer_ncia>
+    </row>
+    <row _id="row-gbtx-i4vd-kr48" _uuid="00000000-0000-0000-DE1D-CFAD1E59E4AC" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-gbtx-i4vd-kr48">
+        <codi_d_informaci>17753</codi_d_informaci>
+        <unitat>Policia Local de Caldes d'Estrac</unitat>
+        <adre_a>Pl. de la Vila, s/n</adre_a>
+        <codi_postal>08393</codi_postal>
+        <municipi>Caldes d'Estrac</municipi>
+        <codi_municipi>80327</codi_municipi>
+        <utm_x>460636.08794083225</utm_x>
+        <utm_y>4602425.454977852</utm_y>
+        <latitud>41.572469</latitud>
+        <longitud>2.527853</longitud>
+        <georefer_ncia>POINT (2.527853 41.572469)</georefer_ncia>
+    </row>
+    <row _id="row-55bg~2pd4~5zsh" _uuid="00000000-0000-0000-195D-7B2049F24FAC" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-55bg~2pd4~5zsh">
+        <codi_d_informaci>17783</codi_d_informaci>
+        <unitat>Policia Local de Figueres</unitat>
+        <adre_a>Av. de Salvador Dalí Domènech, 107</adre_a>
+        <codi_postal>17600</codi_postal>
+        <municipi>Figueres</municipi>
+        <codi_municipi>170669</codi_municipi>
+        <utm_x>496860.6670965499</utm_x>
+        <utm_y>4678470.389025341</utm_y>
+        <latitud>42.265369176</latitud>
+        <longitud>2.95812881</longitud>
+        <georefer_ncia>POINT (2.95812881 42.265369176)</georefer_ncia>
+    </row>
+    <row _id="row-jkhr~wgpz-aw2z" _uuid="00000000-0000-0000-9ADF-0B09AC94E2C5" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-jkhr~wgpz-aw2z">
+        <codi_d_informaci>17720</codi_d_informaci>
+        <unitat>Policia Local d'Alcarràs</unitat>
+        <adre_a>C. de Joan XXIII, 23</adre_a>
+        <codi_postal>25180</codi_postal>
+        <municipi>Alcarràs</municipi>
+        <codi_municipi>250117</codi_municipi>
+        <utm_x>293744.3440153548</utm_x>
+        <utm_y>4604247.907097253</utm_y>
+        <latitud>41.563312271</latitud>
+        <longitud>0.526453226</longitud>
+        <georefer_ncia>POINT (0.526453226 41.563312271)</georefer_ncia>
+    </row>
+    <row _id="row-v2vn.6anr-b6gq" _uuid="00000000-0000-0000-9824-E63E83589454" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-v2vn.6anr-b6gq">
+        <codi_d_informaci>17726</codi_d_informaci>
+        <unitat>Policia Local d'Amposta</unitat>
+        <adre_a>C. de Barcelona, 66</adre_a>
+        <codi_postal>43870</codi_postal>
+        <municipi>Amposta</municipi>
+        <codi_municipi>430141</codi_municipi>
+        <utm_x>295604.5861232048</utm_x>
+        <utm_y>4508857.4930868205</utm_y>
+        <latitud>40.705288113</latitud>
+        <longitud>0.580512918</longitud>
+        <georefer_ncia>POINT (0.580512918 40.705288113)</georefer_ncia>
+    </row>
+    <row _id="row-4pru_4r6y.thgr" _uuid="00000000-0000-0000-F8D3-6DD1FB6488A1" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-4pru_4r6y.thgr">
+        <codi_d_informaci>17761</codi_d_informaci>
+        <unitat>Policia Local de Cardedeu</unitat>
+        <adre_a>Av. d' Àngel Guimerà, 126</adre_a>
+        <codi_postal>08440</codi_postal>
+        <municipi>Cardedeu</municipi>
+        <codi_municipi>80462</codi_municipi>
+        <utm_x>446651.1239241933</utm_x>
+        <utm_y>4610025.572872417</utm_y>
+        <latitud>41.640211</latitud>
+        <longitud>2.359435</longitud>
+        <georefer_ncia>POINT (2.359435 41.640211)</georefer_ncia>
+    </row>
+    <row _id="row-sdhh-4mvu~hj9n" _uuid="00000000-0000-0000-E2B8-0D62A6DEB1E3" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-sdhh-4mvu~hj9n">
+        <codi_d_informaci>17800</codi_d_informaci>
+        <unitat>Policia Local de Lliçà de Vall</unitat>
+        <adre_a>Pl. de la Vila, s/n</adre_a>
+        <codi_postal>08185</codi_postal>
+        <municipi>Lliçà de Vall</municipi>
+        <codi_municipi>81081</codi_municipi>
+        <utm_x>436606.0633566035</utm_x>
+        <utm_y>4604095.639895554</utm_y>
+        <latitud>41.58604</latitud>
+        <longitud>2.239457</longitud>
+        <georefer_ncia>POINT (2.239457 41.58604)</georefer_ncia>
+    </row>
+    <row _id="row-f2e5-x5jb.dznp" _uuid="00000000-0000-0000-2DA9-AD30D999E252" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-f2e5-x5jb.dznp">
+        <codi_d_informaci>17817</codi_d_informaci>
+        <unitat>Policia Local de Montgat</unitat>
+        <adre_a>C. de Lola Anglada, 4</adre_a>
+        <codi_postal>08390</codi_postal>
+        <municipi>Montgat</municipi>
+        <codi_municipi>81265</codi_municipi>
+        <utm_x>440175.193</utm_x>
+        <utm_y>4591486.684</utm_y>
+        <latitud>41.472749975</latitud>
+        <longitud>2.28351825</longitud>
+        <georefer_ncia>POINT (2.28351825 41.472749975)</georefer_ncia>
+    </row>
+    <row _id="row-xhw8~qsbm.y7ey" _uuid="00000000-0000-0000-32D5-7A3C0C52BD2B" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-xhw8~qsbm.y7ey">
+        <codi_d_informaci>17905</codi_d_informaci>
+        <unitat>Policia Municipal de Terrassa</unitat>
+        <adre_a>Av. de les Glòries Catalanes, 3</adre_a>
+        <codi_postal>08223</codi_postal>
+        <municipi>Terrassa</municipi>
+        <codi_municipi>82798</codi_municipi>
+        <utm_x>418941.2030479118</utm_x>
+        <utm_y>4601206.601448727</utm_y>
+        <latitud>41.558423905</latitud>
+        <longitud>2.027934472</longitud>
+        <georefer_ncia>POINT (2.027934472 41.558423905)</georefer_ncia>
+    </row>
+    <row _id="row-c8fe_wyn4-yqmt" _uuid="00000000-0000-0000-9C55-A4FB3EDAC541" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-c8fe_wyn4-yqmt">
+        <codi_d_informaci>17841</codi_d_informaci>
+        <unitat>Guàrdia Urbana de Reus</unitat>
+        <adre_a>Av. de Marià Fortuny, 27</adre_a>
+        <codi_postal>43204</codi_postal>
+        <municipi>Reus</municipi>
+        <codi_municipi>431233</codi_municipi>
+        <utm_x>342036.4250744814</utm_x>
+        <utm_y>4557616.812382222</utm_y>
+        <latitud>41.154520492</latitud>
+        <longitud>1.117284546</longitud>
+        <georefer_ncia>POINT (1.117284546 41.154520492)</georefer_ncia>
+    </row>
+    <row _id="row-vmyh~yema_5jdc" _uuid="00000000-0000-0000-4785-4104F04FF68E" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-vmyh~yema_5jdc">
+        <codi_d_informaci>17769</codi_d_informaci>
+        <unitat>Policia Local de Cerdanyola del Vallès</unitat>
+        <adre_a>Pl. de Sant Medir, s/n</adre_a>
+        <codi_postal>08290</codi_postal>
+        <municipi>Cerdanyola del Vallès</municipi>
+        <codi_municipi>82665</codi_municipi>
+        <utm_x>427793.20527537423</utm_x>
+        <utm_y>4593628.770535148</utm_y>
+        <latitud>41.491023401</latitud>
+        <longitud>2.134985754</longitud>
+        <georefer_ncia>POINT (2.134985754 41.491023401)</georefer_ncia>
+    </row>
+    <row _id="row-23sq-e8va.kuu6" _uuid="00000000-0000-0000-AE95-14259D2FE320" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-23sq-e8va.kuu6">
+        <codi_d_informaci>17835</codi_d_informaci>
+        <unitat>Policia Local de Pineda de Mar</unitat>
+        <adre_a>C. de Sant Joan, 63</adre_a>
+        <codi_postal>08397</codi_postal>
+        <municipi>Pineda de Mar</municipi>
+        <codi_municipi>81635</codi_municipi>
+        <utm_x>474451.69149478397</utm_x>
+        <utm_y>4608769.279987369</utm_y>
+        <latitud>41.630242965</latitud>
+        <longitud>2.693280598</longitud>
+        <georefer_ncia>POINT (2.693280598 41.630242965)</georefer_ncia>
+    </row>
+    <row _id="row-g2hq~qwqp_5yiy" _uuid="00000000-0000-0000-A3EB-62C11624869C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-g2hq~qwqp_5yiy">
+        <codi_d_informaci>17742</codi_d_informaci>
+        <unitat>Policia Local de Berga</unitat>
+        <adre_a>Pl. del Doctor Salo, 8</adre_a>
+        <codi_postal>08600</codi_postal>
+        <municipi>Berga</municipi>
+        <codi_municipi>80229</codi_municipi>
+        <utm_x>404644.3690997175</utm_x>
+        <utm_y>4661993.027171064</utm_y>
+        <latitud>42.10423602</latitud>
+        <longitud>1.84673093</longitud>
+        <georefer_ncia>POINT (1.84673093 42.10423602)</georefer_ncia>
+    </row>
+    <row _id="row-zw9x~ndmq.i529" _uuid="00000000-0000-0000-AD9A-4768960CDBA3" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-zw9x~ndmq.i529">
+        <codi_d_informaci>17810</codi_d_informaci>
+        <unitat>Policia Local de Mataró</unitat>
+        <adre_a>Pl. Granollers, 11</adre_a>
+        <codi_postal>08303</codi_postal>
+        <municipi>Mataró</municipi>
+        <codi_municipi>81213</codi_municipi>
+        <utm_x>452894.75036700146</utm_x>
+        <utm_y>4598923.458285789</utm_y>
+        <latitud>41.540581004</latitud>
+        <longitud>2.435262064</longitud>
+        <georefer_ncia>POINT (2.435262064 41.540581004)</georefer_ncia>
+    </row>
+    <row _id="row-3az6-528n.gum6" _uuid="00000000-0000-0000-DF40-04B2072CE0A7" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-3az6-528n.gum6">
+        <codi_d_informaci>17755</codi_d_informaci>
+        <unitat>Policia Local de Calonge i Sant Antoni</unitat>
+        <adre_a>Pl. de la Concòrdia, s/n</adre_a>
+        <codi_postal>17251</codi_postal>
+        <municipi>Calonge i Sant Antoni</municipi>
+        <codi_municipi>170340</codi_municipi>
+        <utm_x>506341.889</utm_x>
+        <utm_y>4634354.263</utm_y>
+        <latitud>41.861072411</latitud>
+        <longitud>3.076410584</longitud>
+        <georefer_ncia>POINT (3.076410584 41.861072411)</georefer_ncia>
+    </row>
+    <row _id="row-mgdi~ae2j_82k2" _uuid="00000000-0000-0000-4544-937D09CE0ED7" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-mgdi~ae2j_82k2">
+        <codi_d_informaci>17806</codi_d_informaci>
+        <unitat>Policia Local de Martorell</unitat>
+        <adre_a>Av. de Joaquim de Barnola i de Bassols, 1, (Polígon Industrial La Torre)</adre_a>
+        <codi_postal>08760</codi_postal>
+        <municipi>Martorell</municipi>
+        <codi_municipi>81141</codi_municipi>
+        <utm_x>410173.61266671086</utm_x>
+        <utm_y>4592667.8787343</utm_y>
+        <latitud>41.480588778</latitud>
+        <longitud>1.924084124</longitud>
+        <georefer_ncia>POINT (1.924084124 41.480588778)</georefer_ncia>
+    </row>
+    <row _id="row-f8ir_66ba_qnvn" _uuid="00000000-0000-0000-8D32-E29082C6C3BA" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-f8ir_66ba_qnvn">
+        <codi_d_informaci>17813</codi_d_informaci>
+        <unitat>Policia Local de Mollerussa</unitat>
+        <adre_a>Pl. de l' Ajuntament, 2</adre_a>
+        <codi_postal>25230</codi_postal>
+        <municipi>Mollerussa</municipi>
+        <codi_municipi>251370</codi_municipi>
+        <utm_x>324572.42960429005</utm_x>
+        <utm_y>4610810.299363157</utm_y>
+        <latitud>41.629739672</latitud>
+        <longitud>0.893981677</longitud>
+        <georefer_ncia>POINT (0.893981677 41.629739672)</georefer_ncia>
+    </row>
+    <row _id="row-usqb.mvtf~3gmi" _uuid="00000000-0000-0000-B8E1-F19079751419" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-usqb.mvtf~3gmi">
+        <codi_d_informaci>17861</codi_d_informaci>
+        <unitat>Policia Local de Sant Cebrià de Vallalta</unitat>
+        <adre_a>Av. del Maresme, 19</adre_a>
+        <codi_postal>08396</codi_postal>
+        <municipi>Sant Cebrià de Vallalta</municipi>
+        <codi_municipi>82037</codi_municipi>
+        <utm_x>466954.94752222655</utm_x>
+        <utm_y>4607668.866162926</utm_y>
+        <latitud>41.620056126</latitud>
+        <longitud>2.603341276</longitud>
+        <georefer_ncia>POINT (2.603341276 41.620056126)</georefer_ncia>
+    </row>
+    <row _id="row-87y3-kyvf~qpiy" _uuid="00000000-0000-0000-7E55-EA6B03DBC034" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-87y3-kyvf~qpiy">
+        <codi_d_informaci>17831</codi_d_informaci>
+        <unitat>Policia Local de Pals</unitat>
+        <adre_a>Pl. de Catalunya, s/n</adre_a>
+        <codi_postal>17256</codi_postal>
+        <municipi>Pals</municipi>
+        <codi_municipi>171241</codi_municipi>
+        <utm_x>512178.97185539803</utm_x>
+        <utm_y>4646313.481940536</utm_y>
+        <latitud>41.968738252</latitud>
+        <longitud>3.146986374</longitud>
+        <georefer_ncia>POINT (3.146986374 41.968738252)</georefer_ncia>
+    </row>
+    <row _id="row-x38e.tk2r-3tz8" _uuid="00000000-0000-0000-ED25-C1701AA62EDC" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-x38e.tk2r-3tz8">
+        <codi_d_informaci>17719</codi_d_informaci>
+        <unitat>Policia Local d'Alcanar</unitat>
+        <adre_a>C. de la Generalitat, 10</adre_a>
+        <codi_postal>43530</codi_postal>
+        <municipi>Alcanar</municipi>
+        <codi_municipi>430043</codi_municipi>
+        <utm_x>286739.31954641093</utm_x>
+        <utm_y>4491087.2708007535</utm_y>
+        <latitud>40.54309023</latitud>
+        <longitud>0.481672197</longitud>
+        <georefer_ncia>POINT (0.481672197 40.54309023)</georefer_ncia>
+    </row>
+    <row _id="row-t3c7~c733-cg7z" _uuid="00000000-0000-0000-4A64-D4758C984262" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-t3c7~c733-cg7z">
+        <codi_d_informaci>17914</codi_d_informaci>
+        <unitat>Policia Local de Tossa de Mar</unitat>
+        <adre_a>Av. del Pelegrí, 14</adre_a>
+        <codi_postal>17320</codi_postal>
+        <municipi>Tossa de Mar</municipi>
+        <codi_municipi>172023</codi_municipi>
+        <utm_x>494089.61491805717</utm_x>
+        <utm_y>4618782.585509199</utm_y>
+        <latitud>41.720821811</latitud>
+        <longitud>2.928943472</longitud>
+        <georefer_ncia>POINT (2.928943472 41.720821811)</georefer_ncia>
+    </row>
+    <row _id="row-9kjw-tccb.j837" _uuid="00000000-0000-0000-991A-1DDDA15C0D6B" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-9kjw-tccb.j837">
+        <codi_d_informaci>17893</codi_d_informaci>
+        <unitat>Policia Local de Santpedor</unitat>
+        <adre_a>Pl.   Gran, 1</adre_a>
+        <codi_postal>08251</codi_postal>
+        <municipi>Santpedor</municipi>
+        <codi_municipi>81923</codi_municipi>
+        <utm_x>403530.2720238549</utm_x>
+        <utm_y>4626362.3243815135</utm_y>
+        <latitud>41.783249098</latitud>
+        <longitud>1.839094958</longitud>
+        <georefer_ncia>POINT (1.839094958 41.783249098)</georefer_ncia>
+    </row>
+    <row _id="row-gw2v~vcfg_2dna" _uuid="00000000-0000-0000-CC09-1C06BBA0DBBC" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-gw2v~vcfg_2dna">
+        <codi_d_informaci>17855</codi_d_informaci>
+        <unitat>Policia Local de Sant Adrià de Besòs</unitat>
+        <adre_a>Pl. de Francesc Michelli i Jové, s/n</adre_a>
+        <codi_postal>08930</codi_postal>
+        <municipi>Sant Adrià de Besòs</municipi>
+        <codi_municipi>81944</codi_municipi>
+        <utm_x>435106.5733600851</utm_x>
+        <utm_y>4586346.528754268</utm_y>
+        <latitud>41.426049</latitud>
+        <longitud>2.223263</longitud>
+        <georefer_ncia>POINT (2.223263 41.426049)</georefer_ncia>
+    </row>
+    <row _id="row-jk8n~a5hs-hzfj" _uuid="00000000-0000-0000-BC56-5A5E80F692E5" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-jk8n~a5hs-hzfj">
+        <codi_d_informaci>17844</codi_d_informaci>
+        <unitat>Policia Local de Ripollet</unitat>
+        <adre_a>Ctra. de Santiga, 1</adre_a>
+        <codi_postal>08291</codi_postal>
+        <municipi>Ripollet</municipi>
+        <codi_municipi>81803</codi_municipi>
+        <utm_x>429286.27188496763</utm_x>
+        <utm_y>4594326.588288395</utm_y>
+        <latitud>41.497463421</latitud>
+        <longitud>2.152757508</longitud>
+        <georefer_ncia>POINT (2.152757508 41.497463421)</georefer_ncia>
+    </row>
+    <row _id="row-x8q8-upqk-v796" _uuid="00000000-0000-0000-9915-AC4704CC6620" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-x8q8-upqk-v796">
+        <codi_d_informaci>17733</codi_d_informaci>
+        <unitat>Policia Local d'Artés</unitat>
+        <adre_a>C.   Barquera, 41</adre_a>
+        <codi_postal>08271</codi_postal>
+        <municipi>Artés</municipi>
+        <codi_municipi>80109</codi_municipi>
+        <utm_x>413164.6895547865</utm_x>
+        <utm_y>4627890.291649214</utm_y>
+        <latitud>41.798122201</latitud>
+        <longitud>1.954791224</longitud>
+        <georefer_ncia>POINT (1.954791224 41.798122201)</georefer_ncia>
+    </row>
+    <row _id="row-7h58~tfid~9v9u" _uuid="00000000-0000-0000-3619-0BB403BD511D" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-7h58~tfid~9v9u">
+        <codi_d_informaci>17789</codi_d_informaci>
+        <unitat>Policia Local de Granollers</unitat>
+        <adre_a>C. de la Princesa, 55</adre_a>
+        <codi_postal>08401</codi_postal>
+        <municipi>Granollers</municipi>
+        <codi_municipi>80961</codi_municipi>
+        <utm_x>440368.55259331287</utm_x>
+        <utm_y>4606125.717495091</utm_y>
+        <latitud>41.604613628</latitud>
+        <longitud>2.28438177</longitud>
+        <georefer_ncia>POINT (2.28438177 41.604613628)</georefer_ncia>
+    </row>
+    <row _id="row-ju55-9nmn.rr4t" _uuid="00000000-0000-0000-1540-00F499831295" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ju55-9nmn.rr4t">
+        <codi_d_informaci>17876</codi_d_informaci>
+        <unitat>Policia Local de Sant Pere de Ribes</unitat>
+        <adre_a>Pl. de la Vila, 1</adre_a>
+        <codi_postal>08810</codi_postal>
+        <municipi>Sant Pere de Ribes</municipi>
+        <codi_municipi>82310</codi_municipi>
+        <utm_x>397132.0599031179</utm_x>
+        <utm_y>4568609.462386491</utm_y>
+        <latitud>41.26236181</latitud>
+        <longitud>1.771990106</longitud>
+        <georefer_ncia>POINT (1.771990106 41.26236181)</georefer_ncia>
+    </row>
+    <row _id="row-zk9a~q32g_dw29" _uuid="00000000-0000-0000-759A-F2F73396C954" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-zk9a~q32g_dw29">
+        <codi_d_informaci>17871</codi_d_informaci>
+        <unitat>Policia Local de Sant Jaume d'Enveja</unitat>
+        <adre_a>Av. de Catalunya, 22-30</adre_a>
+        <codi_postal>43877</codi_postal>
+        <municipi>Sant Jaume d'Enveja</municipi>
+        <codi_municipi>439023</codi_municipi>
+        <utm_x>307277.9599135121</utm_x>
+        <utm_y>4508816.847451889</utm_y>
+        <latitud>40.707735036</latitud>
+        <longitud>0.718599076</longitud>
+        <georefer_ncia>POINT (0.718599076 40.707735036)</georefer_ncia>
+    </row>
+    <row _id="row-jqnb.2uug.66vt" _uuid="00000000-0000-0000-44DC-37EE35FA9204" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-jqnb.2uug.66vt">
+        <codi_d_informaci>17881</codi_d_informaci>
+        <unitat>Policia Local de Sant Vicenç de Montalt</unitat>
+        <adre_a>Av. dels Països Catalans, 1</adre_a>
+        <codi_postal>08394</codi_postal>
+        <municipi>Sant Vicenç de Montalt</municipi>
+        <codi_municipi>82649</codi_municipi>
+        <utm_x>458944.64613226353</utm_x>
+        <utm_y>4603323.494204039</utm_y>
+        <latitud>41.580545555</latitud>
+        <longitud>2.507489794</longitud>
+        <georefer_ncia>POINT (2.507489794 41.580545555)</georefer_ncia>
+    </row>
+    <row _id="row-7n5k_xqf7~iavn" _uuid="00000000-0000-0000-8868-B948B1A0D780" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-7n5k_xqf7~iavn">
+        <codi_d_informaci>17744</codi_d_informaci>
+        <unitat>Policia Local de la Bisbal d'Empordà</unitat>
+        <adre_a>C. Peixateries, 1</adre_a>
+        <codi_postal>17100</codi_postal>
+        <municipi>La Bisbal d'Empordà</municipi>
+        <codi_municipi>170221</codi_municipi>
+        <utm_x>503101.72879121476</utm_x>
+        <utm_y>4645260.359181477</utm_y>
+        <latitud>41.959320854</latitud>
+        <longitud>3.037428693</longitud>
+        <georefer_ncia>POINT (3.037428693 41.959320854)</georefer_ncia>
+    </row>
+    <row _id="row-k7qq-2dhp-zg3y" _uuid="00000000-0000-0000-98E9-B2ABDE021959" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-k7qq-2dhp-zg3y">
+        <codi_d_informaci>17919</codi_d_informaci>
+        <unitat>Policia Local de Valls</unitat>
+        <adre_a>Pl. del Blat, 1</adre_a>
+        <codi_postal>43800</codi_postal>
+        <municipi>Valls</municipi>
+        <codi_municipi>431613</codi_municipi>
+        <utm_x>353260.0790530249</utm_x>
+        <utm_y>4571794.982204773</utm_y>
+        <latitud>41.284267299</latitud>
+        <longitud>1.247690608</longitud>
+        <georefer_ncia>POINT (1.247690608 41.284267299)</georefer_ncia>
+    </row>
+    <row _id="row-967b-mkw9_bc7z" _uuid="00000000-0000-0000-A166-E8C344C3B495" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-967b-mkw9_bc7z">
+        <codi_d_informaci>17866</codi_d_informaci>
+        <unitat>Policia Local de Sant Feliu de Codines</unitat>
+        <adre_a>C. de Vic, 1</adre_a>
+        <codi_postal>08182</codi_postal>
+        <municipi>Sant Feliu de Codines</municipi>
+        <codi_municipi>82107</codi_municipi>
+        <utm_x>430536.3848940626</utm_x>
+        <utm_y>4615554.995716225</utm_y>
+        <latitud>41.688741269</latitud>
+        <longitud>2.165304753</longitud>
+        <georefer_ncia>POINT (2.165304753 41.688741269)</georefer_ncia>
+    </row>
+    <row _id="row-3xbk_2qjq~pdy7" _uuid="00000000-0000-0000-FA1F-ACB5F4033791" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-3xbk_2qjq~pdy7">
+        <codi_d_informaci>17829</codi_d_informaci>
+        <unitat>Policia Local de Pallejà</unitat>
+        <adre_a>C. del Sol, 1</adre_a>
+        <codi_postal>08780</codi_postal>
+        <municipi>Pallejà</municipi>
+        <codi_municipi>81574</codi_municipi>
+        <utm_x>416168.60857403657</utm_x>
+        <utm_y>4586158.835155378</utm_y>
+        <latitud>41.422616607</latitud>
+        <longitud>1.996783225</longitud>
+        <georefer_ncia>POINT (1.996783225 41.422616607)</georefer_ncia>
+    </row>
+    <row _id="row-w7vg~zjt8_dsdy" _uuid="00000000-0000-0000-B946-97995A1C9707" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-w7vg~zjt8_dsdy">
+        <codi_d_informaci>21591</codi_d_informaci>
+        <unitat>Policia Local de Maçanet de la Selva</unitat>
+        <adre_a>Av. de Sant Jordi, 77</adre_a>
+        <codi_postal>17412</codi_postal>
+        <municipi>Maçanet de la Selva</municipi>
+        <codi_municipi>171030</codi_municipi>
+        <utm_x>477678.008</utm_x>
+        <utm_y>4624915.52</utm_y>
+        <latitud>41.775769558</latitud>
+        <longitud>2.731409071</longitud>
+        <georefer_ncia>POINT (2.731409071 41.775769558)</georefer_ncia>
+    </row>
+    <row _id="row-9my3-9bqt_giy5" _uuid="00000000-0000-0000-C3F2-2992AB75C54B" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-9my3-9bqt_giy5">
+        <codi_d_informaci>17777</codi_d_informaci>
+        <unitat>Policia Local de Cunit</unitat>
+        <adre_a>C.   Conca de Barbera, 10</adre_a>
+        <codi_postal>43881</codi_postal>
+        <municipi>Cunit</municipi>
+        <codi_municipi>430516</codi_municipi>
+        <utm_x>385916.95255081996</utm_x>
+        <utm_y>4561497.240454324</utm_y>
+        <latitud>41.196808237</latitud>
+        <longitud>1.639470212</longitud>
+        <georefer_ncia>POINT (1.639470212 41.196808237)</georefer_ncia>
+    </row>
+    <row _id="row-s6ef_td2w-4kd7" _uuid="00000000-0000-0000-70EA-02E3D87E7CD0" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-s6ef_td2w-4kd7">
+        <codi_d_informaci>17888</codi_d_informaci>
+        <unitat>Policia Local de Santa Margarida de Montbui</unitat>
+        <adre_a>C. Fàbrica, 2</adre_a>
+        <codi_postal>08710</codi_postal>
+        <municipi>Santa Margarida de Montbui</municipi>
+        <codi_municipi>82508</codi_municipi>
+        <utm_x>384161.19851945364</utm_x>
+        <utm_y>4603499.2328971345</utm_y>
+        <latitud>41.575908179</latitud>
+        <longitud>1.611673967</longitud>
+        <georefer_ncia>POINT (1.611673967 41.575908179)</georefer_ncia>
+    </row>
+    <row _id="row-25t4~xvbk.q5hj" _uuid="00000000-0000-0000-D2EC-A46578A1E6DB" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-25t4~xvbk.q5hj">
+        <codi_d_informaci>17926</codi_d_informaci>
+        <unitat>Policia Local de Vilanova del Camí</unitat>
+        <adre_a>Pl. del Castell, 1</adre_a>
+        <codi_postal>08788</codi_postal>
+        <municipi>Vilanova del Camí</municipi>
+        <codi_municipi>83020</codi_municipi>
+        <utm_x>386136.6582121273</utm_x>
+        <utm_y>4603186.8604239905</utm_y>
+        <latitud>41.572257769</latitud>
+        <longitud>1.634255393</longitud>
+        <georefer_ncia>POINT (1.634255393 41.572257769)</georefer_ncia>
+    </row>
+    <row _id="row-kdb5.2tw4~fsdw" _uuid="00000000-0000-0000-BC84-15F3AD087C59" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-kdb5.2tw4~fsdw">
+        <codi_d_informaci>17788</codi_d_informaci>
+        <unitat>Policia Municipal de Girona</unitat>
+        <adre_a>C. de Bacià, 4</adre_a>
+        <codi_postal>17001</codi_postal>
+        <municipi>Girona</municipi>
+        <codi_municipi>170792</codi_municipi>
+        <utm_x>485107.31278571713</utm_x>
+        <utm_y>4647618.643370747</utm_y>
+        <latitud>41.980426592</latitud>
+        <longitud>2.820230011</longitud>
+        <georefer_ncia>POINT (2.820230011 41.980426592)</georefer_ncia>
+    </row>
+    <row _id="row-7bdu.57za.qi92" _uuid="00000000-0000-0000-EA36-1B8C777BAA6E" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-7bdu.57za.qi92">
+        <codi_d_informaci>17725</codi_d_informaci>
+        <unitat>Policia Local de l'Ametlla del Vallès</unitat>
+        <adre_a>C. de  Barcelona, s/n</adre_a>
+        <codi_postal>08480</codi_postal>
+        <municipi>L'Ametlla del Vallès</municipi>
+        <codi_municipi>80057</codi_municipi>
+        <utm_x>438986.2885433908</utm_x>
+        <utm_y>4612595.9740146985</utm_y>
+        <latitud>41.662777096</latitud>
+        <longitud>2.267152813</longitud>
+        <georefer_ncia>POINT (2.267152813 41.662777096)</georefer_ncia>
+    </row>
+    <row _id="row-x3td~ss2r-tsqk" _uuid="00000000-0000-0000-04C9-5E067FCBACD4" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-x3td~ss2r-tsqk">
+        <codi_d_informaci>17852</codi_d_informaci>
+        <unitat>Policia Local de Sallent</unitat>
+        <adre_a>C. de Torres Amat, 29</adre_a>
+        <codi_postal>08650</codi_postal>
+        <municipi>Sallent</municipi>
+        <codi_municipi>81918</codi_municipi>
+        <utm_x>408195.03615380265</utm_x>
+        <utm_y>4630829.869914141</utm_y>
+        <latitud>41.824034167</latitud>
+        <longitud>1.894528448</longitud>
+        <georefer_ncia>POINT (1.894528448 41.824034167)</georefer_ncia>
+    </row>
+    <row _id="row-b9n6~wcnj.fgn8" _uuid="00000000-0000-0000-DBBB-3DBC8AA049C8" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-b9n6~wcnj.fgn8">
+        <codi_d_informaci>17884</codi_d_informaci>
+        <unitat>Policia Local de Santa Coloma de Farners</unitat>
+        <adre_a>Pl. de l' Ajuntament, 1</adre_a>
+        <codi_postal>17430</codi_postal>
+        <municipi>Santa Coloma de Farners</municipi>
+        <codi_municipi>171805</codi_municipi>
+        <utm_x>472024.24835584674</utm_x>
+        <utm_y>4634419.918175059</utm_y>
+        <latitud>41.861189</latitud>
+        <longitud>2.662927</longitud>
+        <georefer_ncia>POINT (2.662927 41.861189)</georefer_ncia>
+    </row>
+    <row _id="row-cegk.gdte-gubs" _uuid="00000000-0000-0000-05B1-92AB5E7CB932" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-cegk.gdte-gubs">
+        <codi_d_informaci>17784</codi_d_informaci>
+        <unitat>Policia Local de les Franqueses del Vallès</unitat>
+        <adre_a>C. de Rafael Alberti, 2</adre_a>
+        <codi_postal>08520</codi_postal>
+        <municipi>Les Franqueses del Vallès</municipi>
+        <codi_municipi>80863</codi_municipi>
+        <utm_x>442008.29323783534</utm_x>
+        <utm_y>4609434.076182899</utm_y>
+        <latitud>41.634531492</latitud>
+        <longitud>2.303737926</longitud>
+        <georefer_ncia>POINT (2.303737926 41.634531492)</georefer_ncia>
+    </row>
+    <row _id="row-dp6q~ep62~aeen" _uuid="00000000-0000-0000-BD89-373F245D1CF4" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-dp6q~ep62~aeen">
+        <codi_d_informaci>17843</codi_d_informaci>
+        <unitat>Policia Local de Ripoll</unitat>
+        <adre_a>Pg. d' Honorat Vilamanyà, 6</adre_a>
+        <codi_postal>17500</codi_postal>
+        <municipi>Ripoll</municipi>
+        <codi_municipi>171479</codi_municipi>
+        <utm_x>433357.7630444756</utm_x>
+        <utm_y>4672329.315333376</utm_y>
+        <latitud>42.200358663</latitud>
+        <longitud>2.192797776</longitud>
+        <georefer_ncia>POINT (2.192797776 42.200358663)</georefer_ncia>
+    </row>
+    <row _id="row-6ihz~yfqi_3ugj" _uuid="00000000-0000-0000-D0AA-C037F8CDDFE1" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-6ihz~yfqi_3ugj">
+        <codi_d_informaci>17895</codi_d_informaci>
+        <unitat>Policia Local de la Sénia</unitat>
+        <adre_a>Av. de la Generalitat, 2</adre_a>
+        <codi_postal>43560</codi_postal>
+        <municipi>La Sénia</municipi>
+        <codi_municipi>430445</codi_municipi>
+        <utm_x>270358.2798688064</utm_x>
+        <utm_y>4501989.387995089</utm_y>
+        <latitud>40.636837359</latitud>
+        <longitud>0.284477527</longitud>
+        <georefer_ncia>POINT (0.284477527 40.636837359)</georefer_ncia>
+    </row>
+    <row _id="row-n8mv-9buu-xwe9" _uuid="00000000-0000-0000-FA41-CDED4A33D3CD" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-n8mv-9buu-xwe9">
+        <codi_d_informaci>17892</codi_d_informaci>
+        <unitat>Policia Local de Santa Susanna</unitat>
+        <adre_a>Pl. de Catalunya, s/n</adre_a>
+        <codi_postal>08398</codi_postal>
+        <municipi>Santa Susanna</municipi>
+        <codi_municipi>82613</codi_municipi>
+        <utm_x>475638.5246969058</utm_x>
+        <utm_y>4609344.174873585</utm_y>
+        <latitud>41.635458254</latitud>
+        <longitud>2.707505502</longitud>
+        <georefer_ncia>POINT (2.707505502 41.635458254)</georefer_ncia>
+    </row>
+    <row _id="row-n5az~9vt2.33ae" _uuid="00000000-0000-0000-B159-839A2EE4C039" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-n5az~9vt2.33ae">
+        <codi_d_informaci>17911</codi_d_informaci>
+        <unitat>Policia Local de Torrelles de Llobregat</unitat>
+        <adre_a>Av. de Dolça de Provença, 20, nau 1</adre_a>
+        <codi_postal>08629</codi_postal>
+        <municipi>Torrelles de Llobregat</municipi>
+        <codi_municipi>82896</codi_municipi>
+        <utm_x>415278.401</utm_x>
+        <utm_y>4579402.262</utm_y>
+        <latitud>41.361672105</latitud>
+        <longitud>1.98707675</longitud>
+        <georefer_ncia>POINT (1.98707675 41.361672105)</georefer_ncia>
+    </row>
+    <row _id="row-6pb2_kvww_bxi4" _uuid="00000000-0000-0000-FD64-73EB3E0B1812" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-6pb2_kvww_bxi4">
+        <codi_d_informaci>17756</codi_d_informaci>
+        <unitat>Policia Local de Camarles</unitat>
+        <adre_a>C. Vint, 22</adre_a>
+        <codi_postal>43894</codi_postal>
+        <municipi>Camarles</municipi>
+        <codi_municipi>439039</codi_municipi>
+        <utm_x>303415.2616326818</utm_x>
+        <utm_y>4516027.11193916</utm_y>
+        <latitud>40.771775222</latitud>
+        <longitud>0.670609535</longitud>
+        <georefer_ncia>POINT (0.670609535 40.771775222)</georefer_ncia>
+    </row>
+    <row _id="row-mk8w~bqfq_x2w9" _uuid="00000000-0000-0000-AEA4-64643EE287B9" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-mk8w~bqfq_x2w9">
+        <codi_d_informaci>17763</codi_d_informaci>
+        <unitat>Policia Local de Cassà de la Selva</unitat>
+        <adre_a>Rbla. de l' Onze de Setembre, 107</adre_a>
+        <codi_postal>17244</codi_postal>
+        <municipi>Cassà de la Selva</municipi>
+        <codi_municipi>170448</codi_municipi>
+        <utm_x>489610.26628251775</utm_x>
+        <utm_y>4637011.127758342</utm_y>
+        <latitud>41.884959575</latitud>
+        <longitud>2.874772137</longitud>
+        <georefer_ncia>POINT (2.874772137 41.884959575)</georefer_ncia>
+    </row>
+    <row _id="row-naef-2b6w_d9kt" _uuid="00000000-0000-0000-EEF4-DA6433BF7902" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-naef-2b6w_d9kt">
+        <codi_d_informaci>17805</codi_d_informaci>
+        <unitat>Policia Local de Manresa</unitat>
+        <adre_a>C. del Bruc, 33-35</adre_a>
+        <codi_postal>08241</codi_postal>
+        <municipi>Manresa</municipi>
+        <codi_municipi>81136</codi_municipi>
+        <utm_x>401712.6027401086</utm_x>
+        <utm_y>4619711.1908610165</utm_y>
+        <latitud>41.723131655</latitud>
+        <longitud>1.818324986</longitud>
+        <georefer_ncia>POINT (1.818324986 41.723131655)</georefer_ncia>
+    </row>
+    <row _id="row-iaph.rbuu-a6jp" _uuid="00000000-0000-0000-52DE-45BDF84442CB" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-iaph.rbuu-a6jp">
+        <codi_d_informaci>17823</codi_d_informaci>
+        <unitat>Policia Local d'Olesa de Montserrat</unitat>
+        <adre_a>C.  d' Anselm Clavé, 189</adre_a>
+        <codi_postal>08640</codi_postal>
+        <municipi>Olesa de Montserrat</municipi>
+        <codi_municipi>81477</codi_municipi>
+        <utm_x>407563.0830843196</utm_x>
+        <utm_y>4599846.122671075</utm_y>
+        <latitud>41.544921624</latitud>
+        <longitud>1.891692711</longitud>
+        <georefer_ncia>POINT (1.891692711 41.544921624)</georefer_ncia>
+    </row>
+    <row _id="row-fpia.87xb~fsu3" _uuid="00000000-0000-0000-0738-4420DAFEBC0C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-fpia.87xb~fsu3">
+        <codi_d_informaci>17754</codi_d_informaci>
+        <unitat>Policia Local de Calella</unitat>
+        <adre_a>Av. del Parc, 23-28</adre_a>
+        <codi_postal>08370</codi_postal>
+        <municipi>Calella</municipi>
+        <codi_municipi>80351</codi_municipi>
+        <utm_x>471735.87955774757</utm_x>
+        <utm_y>4607355.593401819</utm_y>
+        <latitud>41.617418127</latitud>
+        <longitud>2.660743281</longitud>
+        <georefer_ncia>POINT (2.660743281 41.617418127)</georefer_ncia>
+    </row>
+    <row _id="row-9amg.fhmv-w2zw" _uuid="00000000-0000-0000-E691-18461AD6AC0A" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-9amg.fhmv-w2zw">
+        <codi_d_informaci>17792</codi_d_informaci>
+        <unitat>Policia Local d'Hostalric</unitat>
+        <adre_a>C. del Ravalet, s/n</adre_a>
+        <codi_postal>17450</codi_postal>
+        <municipi>Hostalric</municipi>
+        <codi_municipi>170834</codi_municipi>
+        <utm_x>470631.38909894327</utm_x>
+        <utm_y>4621491.13169827</utm_y>
+        <latitud>41.744755218</latitud>
+        <longitud>2.64699782</longitud>
+        <georefer_ncia>POINT (2.64699782 41.744755218)</georefer_ncia>
+    </row>
+    <row _id="row-wqap_rqas.m2qd" _uuid="00000000-0000-0000-3897-0204EE73F1C4" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-wqap_rqas.m2qd">
+        <codi_d_informaci>17873</codi_d_informaci>
+        <unitat>Policia Local de Sant Joan de Vilatorrada</unitat>
+        <adre_a>C. Sant Mateu, 24</adre_a>
+        <codi_postal>08250</codi_postal>
+        <municipi>Sant Joan de Vilatorrada</municipi>
+        <codi_municipi>82188</codi_municipi>
+        <utm_x>400688.1777562825</utm_x>
+        <utm_y>4622426.765844156</utm_y>
+        <latitud>41.748573694</latitud>
+        <longitud>1.806720775</longitud>
+        <georefer_ncia>POINT (1.806720775 41.748573694)</georefer_ncia>
+    </row>
+    <row _id="row-gcg3_bw2y-qm5f" _uuid="00000000-0000-0000-2717-76F44226CFB8" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-gcg3_bw2y-qm5f">
+        <codi_d_informaci>20394</codi_d_informaci>
+        <unitat>Policia Local de Martorelles</unitat>
+        <adre_a>Av. de Piera, 51</adre_a>
+        <codi_postal>08107</codi_postal>
+        <municipi>Martorelles</municipi>
+        <codi_municipi>81154</codi_municipi>
+        <utm_x>436165.48</utm_x>
+        <utm_y>4597592.049</utm_y>
+        <latitud>41.527429741</latitud>
+        <longitud>2.23485357</longitud>
+        <georefer_ncia>POINT (2.23485357 41.527429741)</georefer_ncia>
+    </row>
+    <row _id="row-gnb3-fh4z_sdd8" _uuid="00000000-0000-0000-033C-66A4CD3E336F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-gnb3-fh4z_sdd8">
+        <codi_d_informaci>17830</codi_d_informaci>
+        <unitat>Policia Local de la Palma de Cervelló</unitat>
+        <adre_a>C. de Sant Cristòfol, s/n</adre_a>
+        <codi_postal>08756</codi_postal>
+        <municipi>La Palma de Cervelló</municipi>
+        <codi_municipi>89058</codi_municipi>
+        <utm_x>414008.59168395796</utm_x>
+        <utm_y>4584901.357594916</utm_y>
+        <latitud>41.411063316</latitud>
+        <longitud>1.97111684</longitud>
+        <georefer_ncia>POINT (1.97111684 41.411063316)</georefer_ncia>
+    </row>
+    <row _id="row-qzdu_mtpf_pb5f" _uuid="00000000-0000-0000-810C-76F1D96B3E00" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-qzdu_mtpf_pb5f">
+        <codi_d_informaci>17778</codi_d_informaci>
+        <unitat>Policia Local de Deltebre</unitat>
+        <adre_a>Av. de Catalunya, 9</adre_a>
+        <codi_postal>43580</codi_postal>
+        <municipi>Deltebre</municipi>
+        <codi_municipi>439018</codi_municipi>
+        <utm_x>307705.0640023254</utm_x>
+        <utm_y>4510191.028341796</utm_y>
+        <latitud>40.720204592</latitud>
+        <longitud>0.723229693</longitud>
+        <georefer_ncia>POINT (0.723229693 40.720204592)</georefer_ncia>
+    </row>
+    <row _id="row-4r3k.wcrr.k8jd" _uuid="00000000-0000-0000-470B-DBB0610AB27E" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-4r3k.wcrr.k8jd">
+        <codi_d_informaci>17722</codi_d_informaci>
+        <unitat>Policia Local d'Almacelles</unitat>
+        <adre_a>Pl. de la Vila, 1</adre_a>
+        <codi_postal>25100</codi_postal>
+        <municipi>Almacelles</municipi>
+        <codi_municipi>250194</codi_municipi>
+        <utm_x>286847.56966534344</utm_x>
+        <utm_y>4623139.850717208</utm_y>
+        <latitud>41.731497714</latitud>
+        <longitud>0.437088113</longitud>
+        <georefer_ncia>POINT (0.437088113 41.731497714)</georefer_ncia>
+    </row>
+    <row _id="row-dbuy_zu5u-eytn" _uuid="00000000-0000-0000-79F0-6DCD0510AC47" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-dbuy_zu5u-eytn">
+        <codi_d_informaci>17897</codi_d_informaci>
+        <unitat>Policia Local de la Seu d'Urgell</unitat>
+        <adre_a>Pl. dels Oms, 1</adre_a>
+        <codi_postal>25700</codi_postal>
+        <municipi>La Seu d'Urgell</municipi>
+        <codi_municipi>252038</codi_municipi>
+        <utm_x>373371.7883351267</utm_x>
+        <utm_y>4690687.6929412475</utm_y>
+        <latitud>42.35815243</latitud>
+        <longitud>1.462363982</longitud>
+        <georefer_ncia>POINT (1.462363982 42.35815243)</georefer_ncia>
+    </row>
+    <row _id="row-g2km_x94p_zzxa" _uuid="00000000-0000-0000-F2E9-A70A6BCA176D" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-g2km_x94p_zzxa">
+        <codi_d_informaci>17752</codi_d_informaci>
+        <unitat>Policia Local de Caldes de Montbui</unitat>
+        <adre_a>C. de Santa Teresa, 17</adre_a>
+        <codi_postal>08140</codi_postal>
+        <municipi>Caldes de Montbui</municipi>
+        <codi_municipi>80333</codi_municipi>
+        <utm_x>430416.4504127411</utm_x>
+        <utm_y>4608926.295348917</utm_y>
+        <latitud>41.628944622</latitud>
+        <longitud>2.164623371</longitud>
+        <georefer_ncia>POINT (2.164623371 41.628944622)</georefer_ncia>
+    </row>
+    <row _id="row-35nk~hhaq_bis8" _uuid="00000000-0000-0000-9603-E57D0064AB31" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-35nk~hhaq_bis8">
+        <codi_d_informaci>17923</codi_d_informaci>
+        <unitat>Policia Local de Viladecans</unitat>
+        <adre_a>Ctra. del Prat, 32</adre_a>
+        <codi_postal>08840</codi_postal>
+        <municipi>Viladecans</municipi>
+        <codi_municipi>83015</codi_municipi>
+        <utm_x>418486.4371118213</utm_x>
+        <utm_y>4574421.682371226</utm_y>
+        <latitud>41.317144662</latitud>
+        <longitud>2.026040639</longitud>
+        <georefer_ncia>POINT (2.026040639 41.317144662)</georefer_ncia>
+    </row>
+    <row _id="row-8cmk-rygr.786c" _uuid="00000000-0000-0000-D229-B6C4E537EDA0" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-8cmk-rygr.786c">
+        <codi_d_informaci>17776</codi_d_informaci>
+        <unitat>Policia Local de Cubelles</unitat>
+        <adre_a>C. d' Arles de Tec, s/n</adre_a>
+        <codi_postal>08880</codi_postal>
+        <municipi>Cubelles</municipi>
+        <codi_municipi>80749</codi_municipi>
+        <utm_x>389335.6754532184</utm_x>
+        <utm_y>4562630.934272418</utm_y>
+        <latitud>41.206983574</latitud>
+        <longitud>1.680488322</longitud>
+        <georefer_ncia>POINT (1.680488322 41.206983574)</georefer_ncia>
+    </row>
+    <row _id="row-j3kq-kcqq_2x6b" _uuid="00000000-0000-0000-5D3C-265CCDB50261" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-j3kq-kcqq_2x6b">
+        <codi_d_informaci>17802</codi_d_informaci>
+        <unitat>Policia Local de Lloret de Mar</unitat>
+        <adre_a>Av. de les Alegries, 32, (Policia Local - Protecció Civil)</adre_a>
+        <codi_postal>17310</codi_postal>
+        <municipi>Lloret de Mar</municipi>
+        <codi_municipi>170950</codi_municipi>
+        <utm_x>486251.00122844</utm_x>
+        <utm_y>4616734.955810108</utm_y>
+        <latitud>41.704084863</latitud>
+        <longitud>2.835949991</longitud>
+        <georefer_ncia>POINT (2.835949991 41.704084863)</georefer_ncia>
+    </row>
+    <row _id="row-zars_bqih_pqq3" _uuid="00000000-0000-0000-D57B-2833A40C6C1E" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-zars_bqih_pqq3">
+        <codi_d_informaci>17740</codi_d_informaci>
+        <unitat>Policia Local de Begues</unitat>
+        <adre_a>Camí   Ral, 35</adre_a>
+        <codi_postal>08859</codi_postal>
+        <municipi>Begues</municipi>
+        <codi_municipi>80207</codi_municipi>
+        <utm_x>409460.6533451749</utm_x>
+        <utm_y>4576164.962557335</utm_y>
+        <latitud>41.331883521</latitud>
+        <longitud>1.918014659</longitud>
+        <georefer_ncia>POINT (1.918014659 41.331883521)</georefer_ncia>
+    </row>
+    <row _id="row-scup.ybw9.hc2k" _uuid="00000000-0000-0000-3379-76115B3E7EFF" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-scup.ybw9.hc2k">
+        <codi_d_informaci>17836</codi_d_informaci>
+        <unitat>Policia Local de Polinyà</unitat>
+        <adre_a>Pl. de la Vila, 1</adre_a>
+        <codi_postal>08213</codi_postal>
+        <municipi>Polinyà</municipi>
+        <codi_municipi>81672</codi_municipi>
+        <utm_x>429640.80700311967</utm_x>
+        <utm_y>4600991.28193147</utm_y>
+        <latitud>41.557497722</latitud>
+        <longitud>2.156256067</longitud>
+        <georefer_ncia>POINT (2.156256067 41.557497722)</georefer_ncia>
+    </row>
+    <row _id="row-ppv2_r7qm.4yn9" _uuid="00000000-0000-0000-7224-75E9B4C9D973" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ppv2_r7qm.4yn9">
+        <codi_d_informaci>17718</codi_d_informaci>
+        <unitat>Policia Local d'Agramunt</unitat>
+        <adre_a>Pl. de l' Església, 1</adre_a>
+        <codi_postal>25310</codi_postal>
+        <municipi>Agramunt</municipi>
+        <codi_municipi>250030</codi_municipi>
+        <utm_x>342026.0972300658</utm_x>
+        <utm_y>4627886.394408399</utm_y>
+        <latitud>41.787059</latitud>
+        <longitud>1.098879</longitud>
+        <georefer_ncia>POINT (1.098879 41.787059)</georefer_ncia>
+    </row>
+    <row _id="row-r4sc_izn8.mpci" _uuid="00000000-0000-0000-2720-7C8D7679222A" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-r4sc_izn8.mpci">
+        <codi_d_informaci>17751</codi_d_informaci>
+        <unitat>Policia Local de Caldes de Malavella</unitat>
+        <adre_a>Pl. de l' Ajuntament, 8</adre_a>
+        <codi_postal>17455</codi_postal>
+        <municipi>Caldes de Malavella</municipi>
+        <codi_municipi>170335</codi_municipi>
+        <utm_x>484202.7671102954</utm_x>
+        <utm_y>4631899.007861865</utm_y>
+        <latitud>41.838825996</latitud>
+        <longitud>2.809732179</longitud>
+        <georefer_ncia>POINT (2.809732179 41.838825996)</georefer_ncia>
+    </row>
+    <row _id="row-dke7~wnc3-hb6y" _uuid="00000000-0000-0000-9B25-46A761F53BA8" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-dke7~wnc3-hb6y">
+        <codi_d_informaci>17799</codi_d_informaci>
+        <unitat>Policia Local de Lliçà d'Amunt</unitat>
+        <adre_a>C. de Rafel Casanova, 8</adre_a>
+        <codi_postal>08186</codi_postal>
+        <municipi>Lliçà d'Amunt</municipi>
+        <codi_municipi>81075</codi_municipi>
+        <utm_x>436687.3495450638</utm_x>
+        <utm_y>4606476.1859696545</utm_y>
+        <latitud>41.607486662</latitud>
+        <longitud>2.240171404</longitud>
+        <georefer_ncia>POINT (2.240171404 41.607486662)</georefer_ncia>
+    </row>
+    <row _id="row-v29z~q6ev.t2pk" _uuid="00000000-0000-0000-FB1A-89DB596FF6F9" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-v29z~q6ev.t2pk">
+        <codi_d_informaci>17877</codi_d_informaci>
+        <unitat>Policia Local de Sant Pol de Mar</unitat>
+        <adre_a>Pl. de la Vila, 1</adre_a>
+        <codi_postal>08395</codi_postal>
+        <municipi>Sant Pol de Mar</municipi>
+        <codi_municipi>82359</codi_municipi>
+        <utm_x>468444.23701708345</utm_x>
+        <utm_y>4605452.834427123</utm_y>
+        <latitud>41.600156431</latitud>
+        <longitud>2.621334427</longitud>
+        <georefer_ncia>POINT (2.621334427 41.600156431)</georefer_ncia>
+    </row>
+    <row _id="row-ai4s~djft.qct6" _uuid="00000000-0000-0000-A885-EEDB6C80EF78" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ai4s~djft.qct6">
+        <codi_d_informaci>17862</codi_d_informaci>
+        <unitat>Policia Local de Sant Celoni</unitat>
+        <adre_a>C. de Santa Fe, 52</adre_a>
+        <codi_postal>08470</codi_postal>
+        <municipi>Sant Celoni</municipi>
+        <codi_municipi>82021</codi_municipi>
+        <utm_x>457736.6843915127</utm_x>
+        <utm_y>4615597.880399999</utm_y>
+        <latitud>41.691036573</latitud>
+        <longitud>2.492132184</longitud>
+        <georefer_ncia>POINT (2.492132184 41.691036573)</georefer_ncia>
+    </row>
+    <row _id="row-smti~qesh~jftg" _uuid="00000000-0000-0000-BD94-C0252068F9CB" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-smti~qesh~jftg">
+        <codi_d_informaci>17860</codi_d_informaci>
+        <unitat>Policia Local la Ràpita</unitat>
+        <adre_a>Pl. de Carles III, 13</adre_a>
+        <codi_postal>43540</codi_postal>
+        <municipi>La Ràpita</municipi>
+        <codi_municipi>431362</codi_municipi>
+        <utm_x>296366.04238488036</utm_x>
+        <utm_y>4499378.909613414</utm_y>
+        <latitud>40.620161896</latitud>
+        <longitud>0.592590048</longitud>
+        <georefer_ncia>POINT (0.592590048 40.620161896)</georefer_ncia>
+    </row>
+    <row _id="row-ffdm.tpra.5iu7" _uuid="00000000-0000-0000-3CB5-5ECC1E81A76E" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ffdm.tpra.5iu7">
+        <codi_d_informaci>17882</codi_d_informaci>
+        <unitat>Policia Local de Sant Vicenç dels Horts</unitat>
+        <adre_a>C.   Nou, 132</adre_a>
+        <codi_postal>08620</codi_postal>
+        <municipi>Sant Vicenç dels Horts</municipi>
+        <codi_municipi>82634</codi_municipi>
+        <utm_x>417553.01689640054</utm_x>
+        <utm_y>4582359.955761275</utm_y>
+        <latitud>41.388546152</latitud>
+        <longitud>2.013865643</longitud>
+        <georefer_ncia>POINT (2.013865643 41.388546152)</georefer_ncia>
+    </row>
+    <row _id="row-jhgx_ayzc.bdcu" _uuid="00000000-0000-0000-2B10-A0CCAC640F30" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-jhgx_ayzc.bdcu">
+        <codi_d_informaci>17790</codi_d_informaci>
+        <unitat>Guàrdia Urbana de l'Hospitalet de Llobregat</unitat>
+        <adre_a>C. del Migdia, 5-7</adre_a>
+        <codi_postal>08901</codi_postal>
+        <municipi>L'Hospitalet de Llobregat</municipi>
+        <codi_municipi>81017</codi_municipi>
+        <utm_x>425381.39415686205</utm_x>
+        <utm_y>4579213.094484358</utm_y>
+        <latitud>41.360965433</latitud>
+        <longitud>2.107797881</longitud>
+        <georefer_ncia>POINT (2.107797881 41.360965433)</georefer_ncia>
+    </row>
+    <row _id="row-9ckm.pupx.fi75" _uuid="00000000-0000-0000-F455-0F7AAB1A4810" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-9ckm.pupx.fi75">
+        <codi_d_informaci>17766</codi_d_informaci>
+        <unitat>Policia Local de Castelldefels</unitat>
+        <adre_a>Pl. de l' Esperanto, 4</adre_a>
+        <codi_postal>08860</codi_postal>
+        <municipi>Castelldefels</municipi>
+        <codi_municipi>80569</codi_municipi>
+        <utm_x>414785.85225822305</utm_x>
+        <utm_y>4570584.311499912</utm_y>
+        <latitud>41.282223677</latitud>
+        <longitud>1.982408953</longitud>
+        <georefer_ncia>POINT (1.982408953 41.282223677)</georefer_ncia>
+    </row>
+    <row _id="row-k58y_2eyf.hkyc" _uuid="00000000-0000-0000-F49D-E5D3D6FD6D13" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-k58y_2eyf.hkyc">
+        <codi_d_informaci>17827</codi_d_informaci>
+        <unitat>Policia Local de Palamós</unitat>
+        <adre_a>C. de Josep Joan, 37</adre_a>
+        <codi_postal>17230</codi_postal>
+        <municipi>Palamós</municipi>
+        <codi_municipi>171181</codi_municipi>
+        <utm_x>510724.9358825767</utm_x>
+        <utm_y>4633434.637005358</utm_y>
+        <latitud>41.85274218</latitud>
+        <longitud>3.129203182</longitud>
+        <georefer_ncia>POINT (3.129203182 41.85274218)</georefer_ncia>
+    </row>
+    <row _id="row-y8zf-ge4d-82fw" _uuid="00000000-0000-0000-6EE4-C80A86438E93" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-y8zf-ge4d-82fw">
+        <codi_d_informaci>17902</codi_d_informaci>
+        <unitat>Guàrdia Urbana de Tarragona</unitat>
+        <adre_a>C. de l' Arquebisbe Pont i Gol, 8</adre_a>
+        <codi_postal>43005</codi_postal>
+        <municipi>Tarragona</municipi>
+        <codi_municipi>431482</codi_municipi>
+        <utm_x>351936.4127343174</utm_x>
+        <utm_y>4554099.275812224</utm_y>
+        <latitud>41.124717273</latitud>
+        <longitud>1.236177115</longitud>
+        <georefer_ncia>POINT (1.236177115 41.124717273)</georefer_ncia>
+    </row>
+    <row _id="row-sgnt~ww34~cysk" _uuid="00000000-0000-0000-7AFB-E4C67F1CAE88" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-sgnt~ww34~cysk">
+        <codi_d_informaci>17811</codi_d_informaci>
+        <unitat>Policia Local de Moià</unitat>
+        <adre_a>C. de les Joies, 32, baixos</adre_a>
+        <codi_postal>08180</codi_postal>
+        <municipi>Moià</municipi>
+        <codi_municipi>81385</codi_municipi>
+        <utm_x>425008.67119135335</utm_x>
+        <utm_y>4629376.067086396</utm_y>
+        <latitud>41.812714374</latitud>
+        <longitud>2.09714895</longitud>
+        <georefer_ncia>POINT (2.09714895 41.812714374)</georefer_ncia>
+    </row>
+    <row _id="row-fqeb~3sey-yth7" _uuid="00000000-0000-0000-6792-D5D09262E949" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-fqeb~3sey-yth7">
+        <codi_d_informaci>17896</codi_d_informaci>
+        <unitat>Policia Local de Sentmenat</unitat>
+        <adre_a>Pg. Anselm Clavé, 24</adre_a>
+        <codi_postal>08181</codi_postal>
+        <municipi>Sentmenat</municipi>
+        <codi_municipi>82671</codi_municipi>
+        <utm_x>427915.082</utm_x>
+        <utm_y>4606828.626</utm_y>
+        <latitud>41.609916863</latitud>
+        <longitud>2.134861988</longitud>
+        <georefer_ncia>POINT (2.134861988 41.609916863)</georefer_ncia>
+    </row>
+    <row _id="row-y8du-hbkz~sp72" _uuid="00000000-0000-0000-424E-7512279453B8" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-y8du-hbkz~sp72">
+        <codi_d_informaci>17912</codi_d_informaci>
+        <unitat>Policia Local de Torroella de Montgrí</unitat>
+        <adre_a>Ctra. de Torroella de Montgrí a l'Estartit (GI-641), 104</adre_a>
+        <codi_postal>17258</codi_postal>
+        <municipi>Torroella de Montgrí</municipi>
+        <codi_municipi>171997</codi_municipi>
+        <utm_x>515902.1236377338</utm_x>
+        <utm_y>4655408.666792476</utm_y>
+        <latitud>42.052406863</latitud>
+        <longitud>3.19338096</longitud>
+        <georefer_ncia>POINT (3.19338096 42.052406863)</georefer_ncia>
+    </row>
+    <row _id="row-7eat~5xrn.bbkv" _uuid="00000000-0000-0000-11F0-97904C355B6C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-7eat~5xrn.bbkv">
+        <codi_d_informaci>17741</codi_d_informaci>
+        <unitat>Policia Local de Begur</unitat>
+        <adre_a>C. de Francesc Forgas,  1</adre_a>
+        <codi_postal>17255</codi_postal>
+        <municipi>Begur</municipi>
+        <codi_municipi>170139</codi_municipi>
+        <utm_x>517136.4964518017</utm_x>
+        <utm_y>4644720.091854804</utm_y>
+        <latitud>41.954294</latitud>
+        <longitud>3.206852</longitud>
+        <georefer_ncia>POINT (3.206852 41.954294)</georefer_ncia>
+    </row>
+    <row _id="row-qbbk~vh4x_545r" _uuid="00000000-0000-0000-D46A-F9A6595BE1FE" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-qbbk~vh4x_545r">
+        <codi_d_informaci>17762</codi_d_informaci>
+        <unitat>Policia Local de Cardona</unitat>
+        <adre_a>Pl. de la Fira, 1</adre_a>
+        <codi_postal>08261</codi_postal>
+        <municipi>Cardona</municipi>
+        <codi_municipi>80478</codi_municipi>
+        <utm_x>390593.6317942236</utm_x>
+        <utm_y>4640968.906184912</utm_y>
+        <latitud>41.913128525</latitud>
+        <longitud>1.680714932</longitud>
+        <georefer_ncia>POINT (1.680714932 41.913128525)</georefer_ncia>
+    </row>
+    <row _id="row-rxvh_xkrn~hezu" _uuid="00000000-0000-0000-24B1-92CD3795308F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-rxvh_xkrn~hezu">
+        <codi_d_informaci>17734</codi_d_informaci>
+        <unitat>Policia Local de Badalona</unitat>
+        <adre_a>Turó d'en Caritg, s/n</adre_a>
+        <codi_postal>08917</codi_postal>
+        <municipi>Badalona</municipi>
+        <codi_municipi>80155</codi_municipi>
+        <utm_x>435360.94423683913</utm_x>
+        <utm_y>4588650.625396557</utm_y>
+        <latitud>41.446839</latitud>
+        <longitud>2.226148</longitud>
+        <georefer_ncia>POINT (2.226148 41.446839)</georefer_ncia>
+    </row>
+    <row _id="row-r8c8-maz2-3rtb" _uuid="00000000-0000-0000-27E4-57AB1C3FB7C0" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-r8c8-maz2-3rtb">
+        <codi_d_informaci>17839</codi_d_informaci>
+        <unitat>Policia Local de Premià de Mar</unitat>
+        <adre_a>Pl. de l' Ajuntament, 1</adre_a>
+        <codi_postal>08330</codi_postal>
+        <municipi>Premià de Mar</municipi>
+        <codi_municipi>81727</codi_municipi>
+        <utm_x>446299.2613721602</utm_x>
+        <utm_y>4593286.696589785</utm_y>
+        <latitud>41.489395976</latitud>
+        <longitud>2.356697116</longitud>
+        <georefer_ncia>POINT (2.356697116 41.489395976)</georefer_ncia>
+    </row>
+    <row _id="row-uhbj.2mzx_bbzp" _uuid="00000000-0000-0000-90C5-1819B8DE573C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-uhbj.2mzx_bbzp">
+        <codi_d_informaci>17906</codi_d_informaci>
+        <unitat>Policia Local de Tiana</unitat>
+        <adre_a>Pl. de la Vila, 1</adre_a>
+        <codi_postal>08391</codi_postal>
+        <municipi>Tiana</municipi>
+        <codi_municipi>82824</codi_municipi>
+        <utm_x>438974.18606344174</utm_x>
+        <utm_y>4592502.285952742</utm_y>
+        <latitud>41.481805969</latitud>
+        <longitud>2.269029897</longitud>
+        <georefer_ncia>POINT (2.269029897 41.481805969)</georefer_ncia>
+    </row>
+    <row _id="row-44ii-4xsv_wbvf" _uuid="00000000-0000-0000-141E-8B256A00C47F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-44ii-4xsv_wbvf">
+        <codi_d_informaci>17816</codi_d_informaci>
+        <unitat>Policia Local de Montcada i Reixac</unitat>
+        <adre_a>Av. de la Unitat, 6</adre_a>
+        <codi_postal>08110</codi_postal>
+        <municipi>Montcada i Reixac</municipi>
+        <codi_municipi>81252</codi_municipi>
+        <utm_x>432159.5924567077</utm_x>
+        <utm_y>4592365.059445823</utm_y>
+        <latitud>41.480023172</latitud>
+        <longitud>2.187430682</longitud>
+        <georefer_ncia>POINT (2.187430682 41.480023172)</georefer_ncia>
+    </row>
+    <row _id="row-grpf~itua.tkc4" _uuid="00000000-0000-0000-8D2D-B62FEB4851C8" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-grpf~itua.tkc4">
+        <codi_d_informaci>17853</codi_d_informaci>
+        <unitat>Policia Local de Salou</unitat>
+        <adre_a>C. del Llobregat, 1</adre_a>
+        <codi_postal>43840</codi_postal>
+        <municipi>Salou</municipi>
+        <codi_municipi>439057</codi_municipi>
+        <utm_x>343227.1677801132</utm_x>
+        <utm_y>4549426.974649702</utm_y>
+        <latitud>41.080999138</latitud>
+        <longitud>1.133668855</longitud>
+        <georefer_ncia>POINT (1.133668855 41.080999138)</georefer_ncia>
+    </row>
+    <row _id="row-wy55~zbnt-f8xm" _uuid="00000000-0000-0000-1B79-C06B37FA8ED8" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-wy55~zbnt-f8xm">
+        <codi_d_informaci>17856</codi_d_informaci>
+        <unitat>Policia Local de Sant Andreu de la Barca</unitat>
+        <adre_a>Pl. de l' Ajuntament, 1</adre_a>
+        <codi_postal>08740</codi_postal>
+        <municipi>Sant Andreu de la Barca</municipi>
+        <codi_municipi>81960</codi_municipi>
+        <utm_x>414076.0656772693</utm_x>
+        <utm_y>4589235.9378034035</utm_y>
+        <latitud>41.4501291</latitud>
+        <longitud>1.97134315</longitud>
+        <georefer_ncia>POINT (1.97134315 41.4501291)</georefer_ncia>
+    </row>
+    <row _id="row-vg3b_tsnw.y9iv" _uuid="00000000-0000-0000-3011-B2025A0BB8CD" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-vg3b_tsnw.y9iv">
+        <codi_d_informaci>17920</codi_d_informaci>
+        <unitat>Policia Local de Vandellòs i l'Hospitalet de l'Infant</unitat>
+        <adre_a>Pl. d' Aster, s/n</adre_a>
+        <codi_postal>43890</codi_postal>
+        <municipi>Vandellòs i l'Hospitalet de l'Infant</municipi>
+        <codi_municipi>431628</codi_municipi>
+        <utm_x>324589.3956793858</utm_x>
+        <utm_y>4539910.786309951</utm_y>
+        <latitud>40.991526218</latitud>
+        <longitud>0.914631718</longitud>
+        <georefer_ncia>POINT (0.914631718 40.991526218)</georefer_ncia>
+    </row>
+    <row _id="row-77n6-zjza-kh56" _uuid="00000000-0000-0000-AD00-9054E508411C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-77n6-zjza-kh56">
+        <codi_d_informaci>17794</codi_d_informaci>
+        <unitat>Policia Local de la Jonquera</unitat>
+        <adre_a>Pl. de l' Ajuntament, 3</adre_a>
+        <codi_postal>17700</codi_postal>
+        <municipi>La Jonquera</municipi>
+        <codi_municipi>170865</codi_municipi>
+        <utm_x>489557.735</utm_x>
+        <utm_y>4696063.042</utm_y>
+        <latitud>42.416804525</latitud>
+        <longitud>2.873080913</longitud>
+        <georefer_ncia>POINT (2.873080913 42.416804525)</georefer_ncia>
+    </row>
+    <row _id="row-uskm-ztxp~y3t4" _uuid="00000000-0000-0000-0308-51917A0A9292" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-uskm-ztxp~y3t4">
+        <codi_d_informaci>17785</codi_d_informaci>
+        <unitat>Policia Local de la Garriga</unitat>
+        <adre_a>Pl. de l' Església, 2</adre_a>
+        <codi_postal>08530</codi_postal>
+        <municipi>La Garriga</municipi>
+        <codi_municipi>80885</codi_municipi>
+        <utm_x>440569.38369325915</utm_x>
+        <utm_y>4615059.941823139</utm_y>
+        <latitud>41.685094932</latitud>
+        <longitud>2.285903756</longitud>
+        <georefer_ncia>POINT (2.285903756 41.685094932)</georefer_ncia>
+    </row>
+    <row _id="row-hbkb~2gpf.uvxk" _uuid="00000000-0000-0000-3A52-58840EE64ADB" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-hbkb~2gpf.uvxk">
+        <codi_d_informaci>17886</codi_d_informaci>
+        <unitat>Policia Local de Santa Cristina d'Aro</unitat>
+        <adre_a>C. Teulera, 3</adre_a>
+        <codi_postal>17246</codi_postal>
+        <municipi>Santa Cristina d'Aro</municipi>
+        <codi_municipi>171812</codi_municipi>
+        <utm_x>500039.9197142218</utm_x>
+        <utm_y>4628742.452803206</utm_y>
+        <latitud>41.810552668</latitud>
+        <longitud>3.000480597</longitud>
+        <georefer_ncia>POINT (3.000480597 41.810552668)</georefer_ncia>
+    </row>
+    <row _id="row-yky5_tr5q-hrhh" _uuid="00000000-0000-0000-FD57-0FBAA518A06E" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-yky5_tr5q-hrhh">
+        <codi_d_informaci>17767</codi_d_informaci>
+        <unitat>Policia Local de Castelló d'Empúries</unitat>
+        <adre_a>Puigmal, 1</adre_a>
+        <codi_postal>17487</codi_postal>
+        <municipi>Castelló d'Empúries</municipi>
+        <codi_municipi>170470</codi_municipi>
+        <utm_x>508647.64860826696</utm_x>
+        <utm_y>4678633.402844167</utm_y>
+        <latitud>42.259853185</latitud>
+        <longitud>3.104845613</longitud>
+        <georefer_ncia>POINT (3.104845613 42.259853185)</georefer_ncia>
+    </row>
+    <row _id="row-kbyg~3txr.j6j5" _uuid="00000000-0000-0000-AB4E-1B67615517BA" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-kbyg~3txr.j6j5">
+        <codi_d_informaci>17774</codi_d_informaci>
+        <unitat>Policia Local de Cornellà de Llobregat</unitat>
+        <adre_a>C. de Rubió i Ors, 65</adre_a>
+        <codi_postal>08940</codi_postal>
+        <municipi>Cornellà de Llobregat</municipi>
+        <codi_municipi>80734</codi_municipi>
+        <utm_x>422105.84617994964</utm_x>
+        <utm_y>4578435.710132355</utm_y>
+        <latitud>41.353638181</latitud>
+        <longitud>2.068710197</longitud>
+        <georefer_ncia>POINT (2.068710197 41.353638181)</georefer_ncia>
+    </row>
+    <row _id="row-7n6j-zyxu.rt6m" _uuid="00000000-0000-0000-9E40-FD7B24648965" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-7n6j-zyxu.rt6m">
+        <codi_d_informaci>17807</codi_d_informaci>
+        <unitat>Policia Local del Masnou</unitat>
+        <adre_a>C. de Joan Miró, 150</adre_a>
+        <codi_postal>08320</codi_postal>
+        <municipi>El Masnou</municipi>
+        <codi_municipi>81189</codi_municipi>
+        <utm_x>443636.41700652364</utm_x>
+        <utm_y>4592596.471724017</utm_y>
+        <latitud>41.483078028</latitud>
+        <longitud>2.32495943</longitud>
+        <georefer_ncia>POINT (2.32495943 41.483078028)</georefer_ncia>
+    </row>
+    <row _id="row-qy42~pdxz_m9mq" _uuid="00000000-0000-0000-31FC-CBD6881DAD03" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-qy42~pdxz_m9mq">
+        <codi_d_informaci>21651</codi_d_informaci>
+        <unitat>Policia Local  de l'Ampolla</unitat>
+        <adre_a>Pl. de Manel Ferré i Solé, 3</adre_a>
+        <codi_postal>43895</codi_postal>
+        <municipi>L'Ampolla</municipi>
+        <codi_municipi>439060</codi_municipi>
+        <utm_x>307232.64167191304</utm_x>
+        <utm_y>4520655.855151252</utm_y>
+        <latitud>40.814292577</latitud>
+        <longitud>0.714413677</longitud>
+        <georefer_ncia>POINT (0.714413677 40.814292577)</georefer_ncia>
+    </row>
+    <row _id="row-5bui~t8vt~wnef" _uuid="00000000-0000-0000-6B52-F872B3AFBC0C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-5bui~t8vt~wnef">
+        <codi_d_informaci>17900</codi_d_informaci>
+        <unitat>Policia Local de Solsona</unitat>
+        <adre_a>C. del Castell, 20</adre_a>
+        <codi_postal>25280</codi_postal>
+        <municipi>Solsona</municipi>
+        <codi_municipi>252075</codi_municipi>
+        <utm_x>377177.05936588487</utm_x>
+        <utm_y>4650243.755363344</utm_y>
+        <latitud>41.994631822</latitud>
+        <longitud>1.517089067</longitud>
+        <georefer_ncia>POINT (1.517089067 41.994631822)</georefer_ncia>
+    </row>
+    <row _id="row-i9vu~ggss-7rny" _uuid="00000000-0000-0000-7E27-239B0C7C7893" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-i9vu~ggss-7rny">
+        <codi_d_informaci>17758</codi_d_informaci>
+        <unitat>Policia Local de Canet de Mar</unitat>
+        <adre_a>C. de les Drassanes del Pla, 30</adre_a>
+        <codi_postal>08360</codi_postal>
+        <municipi>Canet de Mar</municipi>
+        <codi_municipi>80403</codi_municipi>
+        <utm_x>465734.69000263646</utm_x>
+        <utm_y>4604291.256184913</utm_y>
+        <latitud>41.589582328</latitud>
+        <longitud>2.588887344</longitud>
+        <georefer_ncia>POINT (2.588887344 41.589582328)</georefer_ncia>
+    </row>
+    <row _id="row-mupc.eets.gnh3" _uuid="00000000-0000-0000-40BE-EECFAEB91924" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-mupc.eets.gnh3">
+        <codi_d_informaci>17910</codi_d_informaci>
+        <unitat>Policia Local de Torredembarra</unitat>
+        <adre_a>C. de la Riera de Gaià, 20-24</adre_a>
+        <codi_postal>43830</codi_postal>
+        <municipi>Torredembarra</municipi>
+        <codi_municipi>431536</codi_municipi>
+        <utm_x>365147.028</utm_x>
+        <utm_y>4557212.917</utm_y>
+        <latitud>41.155038435</latitud>
+        <longitud>1.392802197</longitud>
+        <georefer_ncia>POINT (1.392802197 41.155038435)</georefer_ncia>
+    </row>
+    <row _id="row-bkw3.94p7_4z2w" _uuid="00000000-0000-0000-33D8-3894CCAECEB4" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-bkw3.94p7_4z2w">
+        <codi_d_informaci>17887</codi_d_informaci>
+        <unitat>Policia Local de Santa Eulàlia de Ronçana</unitat>
+        <adre_a>C. de la Verge del Remei, s/n</adre_a>
+        <codi_postal>08187</codi_postal>
+        <municipi>Santa Eulàlia de Ronçana</municipi>
+        <codi_municipi>82482</codi_municipi>
+        <utm_x>435779.7053438466</utm_x>
+        <utm_y>4610325.405824352</utm_y>
+        <latitud>41.642081928</latitud>
+        <longitud>2.228866539</longitud>
+        <georefer_ncia>POINT (2.228866539 41.642081928)</georefer_ncia>
+    </row>
+    <row _id="row-523t_d6k9.nept" _uuid="00000000-0000-0000-F597-FCD389153583" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-523t_d6k9.nept">
+        <codi_d_informaci>17730</codi_d_informaci>
+        <unitat>Policia Local d'Arenys de Mar</unitat>
+        <adre_a>C. d' Auterive, s/n, (cantonada carrer de l'Hospital)</adre_a>
+        <codi_postal>08350</codi_postal>
+        <municipi>Arenys de Mar</municipi>
+        <codi_municipi>80060</codi_municipi>
+        <utm_x>462201.0989790209</utm_x>
+        <utm_y>4603560.444863023</utm_y>
+        <latitud>41.582836</latitud>
+        <longitud>2.546569</longitud>
+        <georefer_ncia>POINT (2.546569 41.582836)</georefer_ncia>
+    </row>
+    <row _id="row-krw7_4djx-xxv8" _uuid="00000000-0000-0000-6116-45B7FBC2465E" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-krw7_4djx-xxv8">
+        <codi_d_informaci>17922</codi_d_informaci>
+        <unitat>Guàrdia Urbana de Vic</unitat>
+        <adre_a>C. de l' Era d'en Sellés, 10</adre_a>
+        <codi_postal>08500</codi_postal>
+        <municipi>Vic</municipi>
+        <codi_municipi>82981</codi_municipi>
+        <utm_x>437707.24032268015</utm_x>
+        <utm_y>4642745.808464596</utm_y>
+        <latitud>41.936022505</latitud>
+        <longitud>2.249775922</longitud>
+        <georefer_ncia>POINT (2.249775922 41.936022505)</georefer_ncia>
+    </row>
+    <row _id="row-sz25.knvd~24qs" _uuid="00000000-0000-0000-7F91-BF962168D091" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-sz25.knvd~24qs">
+        <codi_d_informaci>17727</codi_d_informaci>
+        <unitat>Policia Local d'Anglès</unitat>
+        <adre_a>Pl. de la Vila, 1</adre_a>
+        <codi_postal>17160</codi_postal>
+        <municipi>Anglès</municipi>
+        <codi_municipi>170084</codi_municipi>
+        <utm_x>470156.6725277577</utm_x>
+        <utm_y>4645104.237910572</utm_y>
+        <latitud>41.957356067</latitud>
+        <longitud>2.639890623</longitud>
+        <georefer_ncia>POINT (2.639890623 41.957356067)</georefer_ncia>
+    </row>
+    <row _id="row-bewv~uz8n.v84x" _uuid="00000000-0000-0000-46BA-1BCE8D912D82" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-bewv~uz8n.v84x">
+        <codi_d_informaci>17851</codi_d_informaci>
+        <unitat>Policia Municipal de Sabadell</unitat>
+        <adre_a>C. de Pau Claris, 100</adre_a>
+        <codi_postal>08205</codi_postal>
+        <municipi>Sabadell</municipi>
+        <codi_municipi>81878</codi_municipi>
+        <utm_x>424989.2799947557</utm_x>
+        <utm_y>4599172.96440584</utm_y>
+        <latitud>41.54069867</latitud>
+        <longitud>2.100708578</longitud>
+        <georefer_ncia>POINT (2.100708578 41.54069867)</georefer_ncia>
+    </row>
+    <row _id="row-n7sq_9vtb.6zuf" _uuid="00000000-0000-0000-716D-E0B3F6F934CB" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-n7sq_9vtb.6zuf">
+        <codi_d_informaci>17757</codi_d_informaci>
+        <unitat>Policia Local de Cambrils</unitat>
+        <adre_a>Pl. de l' Ajuntament, 4</adre_a>
+        <codi_postal>43850</codi_postal>
+        <municipi>Cambrils</municipi>
+        <codi_municipi>430385</codi_municipi>
+        <utm_x>336800.92671839835</utm_x>
+        <utm_y>4548491.450958449</utm_y>
+        <latitud>41.071317909</latitud>
+        <longitud>1.057416921</longitud>
+        <georefer_ncia>POINT (1.057416921 41.071317909)</georefer_ncia>
+    </row>
+    <row _id="row-4uyq~ywrm.puvy" _uuid="00000000-0000-0000-ACA5-2AD1D95D331F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-4uyq~ywrm.puvy">
+        <codi_d_informaci>17870</codi_d_informaci>
+        <unitat>Policia Local de Sant Fruitós de Bages</unitat>
+        <adre_a>Pl. de l' Ajuntament, s/n</adre_a>
+        <codi_postal>08272</codi_postal>
+        <municipi>Sant Fruitós de Bages</municipi>
+        <codi_municipi>82135</codi_municipi>
+        <utm_x>406366.15790511976</utm_x>
+        <utm_y>4622735.898241676</utm_y>
+        <latitud>41.750988</latitud>
+        <longitud>1.873806</longitud>
+        <georefer_ncia>POINT (1.873806 41.750988)</georefer_ncia>
+    </row>
+    <row _id="row-qwq9~jch7.3wu7" _uuid="00000000-0000-0000-7E5E-00C7DCB383F3" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-qwq9~jch7.3wu7">
+        <codi_d_informaci>17927</codi_d_informaci>
+        <unitat>Policia Local de Vilanova del Vallès</unitat>
+        <adre_a>Pl. de l' Ajuntament, 1</adre_a>
+        <codi_postal>08410</codi_postal>
+        <municipi>Vilanova del Vallès</municipi>
+        <codi_municipi>89024</codi_municipi>
+        <utm_x>440711.7005785588</utm_x>
+        <utm_y>4600518.246197479</utm_y>
+        <latitud>41.554132966</latitud>
+        <longitud>2.289067336</longitud>
+        <georefer_ncia>POINT (2.289067336 41.554132966)</georefer_ncia>
+    </row>
+    <row _id="row-rtz9-rd26_n54c" _uuid="00000000-0000-0000-8642-2C1BD9B9268A" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-rtz9-rd26_n54c">
+        <codi_d_informaci>17804</codi_d_informaci>
+        <unitat>Policia Local de Manlleu</unitat>
+        <adre_a>Pl. de  Fra Bernadí, 5</adre_a>
+        <codi_postal>08560</codi_postal>
+        <municipi>Manlleu</municipi>
+        <codi_municipi>81120</codi_municipi>
+        <utm_x>440678.1140131959</utm_x>
+        <utm_y>4650005.68017894</utm_y>Tarragona
+        <latitud>41.999831834</latitud>
+        <longitud>2.283708416</longitud>
+        <georefer_ncia>POINT (2.283708416 41.999831834)</georefer_ncia>
+    </row>
+    <row _id="row-zdnk_8eih~jdxh" _uuid="00000000-0000-0000-76EF-4EB02D3DF330" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-zdnk_8eih~jdxh">
+        <codi_d_informaci>17748</codi_d_informaci>
+        <unitat>Policia Local de Cabrils</unitat>
+        <adre_a>C. Luis Colmenar, 2</adre_a>
+        <codi_postal>08348</codi_postal>
+        <municipi>Cabrils</municipi>
+        <codi_municipi>80305</codi_municipi>
+        <utm_x>447278.0742303981</utm_x>
+        <utm_y>4597417.25256715</utm_y>
+        <latitud>41.52778424</latitud>
+        <longitud>2.369204575</longitud>
+        <georefer_ncia>POINT (2.369204575 41.52778424)</georefer_ncia>
+    </row>
+    <row _id="row-53bu.4wjh-stb7" _uuid="00000000-0000-0000-5AC4-495CB83812FE" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-53bu.4wjh-stb7">
+        <codi_d_informaci>17849</codi_d_informaci>
+        <unitat>Policia Local de Roses</unitat>
+        <adre_a>C. de Tarragona, 64</adre_a>
+        <codi_postal>17480</codi_postal>
+        <municipi>Roses</municipi>
+        <codi_municipi>171523</codi_municipi>
+        <utm_x>514463.3055330613</utm_x>
+        <utm_y>4679148.465516342</utm_y>
+        <latitud>42.264405816</latitud>
+        <longitud>3.175368263</longitud>
+        <georefer_ncia>POINT (3.175368263 42.264405816)</georefer_ncia>
+    </row>
+    <row _id="row-nnr9-34hg~zjbm" _uuid="00000000-0000-0000-07C3-53284C97098F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-nnr9-34hg~zjbm">
+        <codi_d_informaci>17815</codi_d_informaci>
+        <unitat>Policia Local de Montblanc</unitat>
+        <adre_a>C. de la Muralla de Sant Jordi, 35</adre_a>
+        <codi_postal>43400</codi_postal>
+        <municipi>Montblanc</municipi>
+        <codi_municipi>430862</codi_municipi>
+        <utm_x>346097.51466772944</utm_x>
+        <utm_y>4582169.883636368</utm_y>
+        <latitud>41.37633984</latitud>
+        <longitud>1.159571656</longitud>
+        <georefer_ncia>POINT (1.159571656 41.37633984)</georefer_ncia>
+    </row>
+    <row _id="row-feun~4f7a.8vh3" _uuid="00000000-0000-0000-5A6D-C2FC52DC9C5D" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-feun~4f7a.8vh3">
+        <codi_d_informaci>17832</codi_d_informaci>
+        <unitat>Policia Local del Papiol</unitat>
+        <adre_a>C. d' Aribau, 11</adre_a>
+        <codi_postal>08754</codi_postal>
+        <municipi>El Papiol</municipi>
+        <codi_municipi>81580</codi_municipi>
+        <utm_x>416964.78385587304</utm_x>
+        <utm_y>4587614.835371807</utm_y>
+        <latitud>41.43581233</latitud>
+        <longitud>2.00610974</longitud>
+        <georefer_ncia>POINT (2.00610974 41.43581233)</georefer_ncia>
+    </row>
+    <row _id="row-2spe_kxjd~c9hp" _uuid="00000000-0000-0000-AE0B-5451680D88F4" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-2spe_kxjd~c9hp">
+        <codi_d_informaci>17822</codi_d_informaci>
+        <unitat>Policia Local de Navàs</unitat>
+        <adre_a>Pl. de l' Ajuntament, 8</adre_a>
+        <codi_postal>08670</codi_postal>
+        <municipi>Navàs</municipi>
+        <codi_municipi>81419</codi_municipi>
+        <utm_x>407037.39256434893</utm_x>
+        <utm_y>4639291.846817452</utm_y>
+        <latitud>41.90010064</latitud>
+        <longitud>1.879261195</longitud>
+        <georefer_ncia>POINT (1.879261195 41.90010064)</georefer_ncia>
+    </row>
+    <row _id="row-hcvi-rjkv-qhqh" _uuid="00000000-0000-0000-8654-B7F887B51E74" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-hcvi-rjkv-qhqh">
+        <codi_d_informaci>17736</codi_d_informaci>
+        <unitat>Policia Local de Balaguer</unitat>
+        <adre_a>Pl. del Mercadal, 1</adre_a>
+        <codi_postal>25600</codi_postal>
+        <municipi>Balaguer</municipi>
+        <codi_municipi>250404</codi_municipi>
+        <utm_x>317583.78281426436</utm_x>
+        <utm_y>4628740.456189017</utm_y>
+        <latitud>41.789553072</latitud>
+        <longitud>0.804654199</longitud>
+        <georefer_ncia>POINT (0.804654199 41.789553072)</georefer_ncia>
+    </row>
+    <row _id="row-v38z_2e6u.8ms8" _uuid="00000000-0000-0000-F4B5-1A2EB8FF2FF7" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-v38z_2e6u.8ms8">
+        <codi_d_informaci>17865</codi_d_informaci>
+        <unitat>Policia Local de Sant Esteve Sesrovires</unitat>
+        <adre_a>C. Major, 12</adre_a>
+        <codi_postal>08635</codi_postal>
+        <municipi>Sant Esteve Sesrovires</municipi>
+        <codi_municipi>82080</codi_municipi>
+        <utm_x>406050.3795897402</utm_x>
+        <utm_y>4594159.24933166</utm_y>
+        <latitud>41.493547152</latitud>
+        <longitud>1.874473665</longitud>
+        <georefer_ncia>POINT (1.874473665 41.493547152)</georefer_ncia>
+    </row>
+    <row _id="row-5sn9~ivkp~n3td" _uuid="00000000-0000-0000-BFB4-A545D5C6EB0F" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-5sn9~ivkp~n3td">
+        <codi_d_informaci>17891</codi_d_informaci>
+        <unitat>Policia Local de Santa Perpètua de Mogoda</unitat>
+        <adre_a>Pl. de la Vila, 5</adre_a>
+        <codi_postal>08130</codi_postal>
+        <municipi>Santa Perpètua de Mogoda</municipi>
+        <codi_municipi>82606</codi_municipi>
+        <utm_x>431879.49102811835</utm_x>
+        <utm_y>4598428.398971858</utm_y>
+        <latitud>41.534609051</latitud>
+        <longitud>2.183390098</longitud>
+        <georefer_ncia>POINT (2.183390098 41.534609051)</georefer_ncia>
+    </row>
+    <row _id="row-ts52-v6fn~ejvt" _uuid="00000000-0000-0000-7014-05C35E758B70" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-ts52-v6fn~ejvt">
+        <codi_d_informaci>17909</codi_d_informaci>
+        <unitat>Policia Local de Torelló</unitat>
+        <adre_a>C. Ter, 33-35</adre_a>
+        <codi_postal>08570</codi_postal>
+        <municipi>Torelló</municipi>
+        <codi_municipi>82858</codi_municipi>
+        <utm_x>438306.76455942047</utm_x>
+        <utm_y>4655438.66059503</utm_y>
+        <latitud>42.0485783</latitud>
+        <longitud>2.254506078</longitud>
+        <georefer_ncia>POINT (2.254506078 42.0485783)</georefer_ncia>
+    </row>
+    <row _id="row-pbp4.2934-vfid" _uuid="00000000-0000-0000-CF11-31B6CED34E46" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-pbp4.2934-vfid">
+        <codi_d_informaci>17857</codi_d_informaci>
+        <unitat>Policia Local de Sant Andreu de Llavaneres</unitat>
+        <adre_a>C. de la Indústria, 4, (polígon industrial)</adre_a>
+        <codi_postal>08392</codi_postal>
+        <municipi>Sant Andreu de Llavaneres</municipi>
+        <codi_municipi>81976</codi_municipi>
+        <utm_x>457361.30431675765</utm_x>
+        <utm_y>4601035.43967021</utm_y>
+        <latitud>41.559854149</latitud>
+        <longitud>2.488658896</longitud>
+        <georefer_ncia>POINT (2.488658896 41.559854149)</georefer_ncia>
+    </row>
+    <row _id="row-qd4i~6vfn-mfue" _uuid="00000000-0000-0000-DE82-60A545363B2C" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-qd4i~6vfn-mfue">
+        <codi_d_informaci>17921</codi_d_informaci>
+        <unitat>Policia Local del Vendrell</unitat>
+        <adre_a>Ctra. de Calafell, s/n</adre_a>
+        <codi_postal>43700</codi_postal>
+        <municipi>El Vendrell</municipi>
+        <codi_municipi>431634</codi_municipi>
+        <utm_x>377666.3883284591</utm_x>
+        <utm_y>4564471.801667453</utm_y>
+        <latitud>41.222389852</latitud>
+        <longitud>1.540510019</longitud>
+        <georefer_ncia>POINT (1.540510019 41.222389852)</georefer_ncia>
+    </row>
+    <row _id="row-iz39~fvhj-catx" _uuid="00000000-0000-0000-CEAD-C0071EB05C9D" _position="0" _address="https://analisi.transparenciacatalunya.cat/resource/fdqj-77ib/row-iz39~fvhj-catx">
+        <codi_d_informaci>17878</codi_d_informaci>
+        <unitat>Policia Local de Sant Quirze del Vallès</unitat>
+        <adre_a>Rda. de Santa Julita, 71</adre_a>
+        <codi_postal>08192</codi_postal>
+        <municipi>Sant Quirze del Vallès</municipi>
+        <codi_municipi>82384</codi_municipi>
+        <utm_x>423674.7963390727</utm_x>
+        <utm_y>4598696.171640274</utm_y>
+        <latitud>41.536333434</latitud>
+        <longitud>2.084995917</longitud>
+        <georefer_ncia>POINT (2.084995917 41.536333434)</georefer_ncia>
+    </row>
+</comissaries>

@@ -1,0 +1,165 @@
+.titulo{
+    border: 1.5px solid #003f75;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    height: 80px;
+    margin: auto;
+}
+
+.contenedor{
+    border: 1.5px solid #003f75;
+    grid-template-columns: 1fr 1fr;
+    background-color: white;
+    text-align: center;
+    box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.5);
+    
+}
+
+.contenedor-tabla {
+  display: flex;
+  justify-content: center;
+}
+
+.info{
+  height: 700px;
+  border:1.5px solid #003f75;
+  padding: 2px;
+  margin: 25px;
+  width: 45%;
+  display:inline-block;
+  overflow-wrap: break-word;
+  background-color:#cad8eb;
+}
+
+.foot{
+  width: 95,5%;
+  padding: 30px;
+  height: 200px;
+  background-color: #272727;
+  color: #003f75;
+  box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.5);
+}
+
+.footLinks {
+  font-family: "Montserrat", sans-serif;
+  display: flex;
+  justify-content: flex-end;
+  align-items: top;
+}
+
+.depInterior img{
+  float: center;
+  width: 200px;
+  height: auto;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  height: 80px;
+  background-color: #003f75;
+  color: #003f75;
+  border: 1.5px solid #003f75;
+  box-shadow: 0px 2px 5px 0px rgba(0,0,0,0.5);
+}
+
+header .logo {
+  position: absolute;
+  width: 100%;
+  max-width: 780px;
+  height: auto;
+  left: auto;
+  top: auto;
+}
+
+header .logo img{
+  width: 100%;
+  height: auto; 
+}
+
+
+
+body{
+  background-color: #cfdce2;
+  font-family: Arial, Helvetica, sans-serif;
+  Margin: 3em;
+}
+
+table, tr, th, td{
+  border: 1px solid;
+  border-collapse: collapse;
+  width: 500px;
+  background-color: white;
+  margin: 15px;
+
+}
+h1 {
+  margin-left: 120px;
+}
+
+h2{
+ color: #003f75;
+ margin-left: 20px;
+ margin-right: 20px;
+ text-align: center;
+}
+
+h3{
+  color: #003f75;
+  padding: 1%;
+  margin-left: 10px;
+}
+
+p{
+  color: rgb(0, 0, 0);
+  margin: 2em;
+}
+
+a{
+  text-decoration: none;
+
+}
+
+hr {
+  border: 1px solid #003f75;
+  color: #003f75;
+}
+
+table {
+  width: 100%;
+  max-width: 1200px;
+  height: auto;
+  border: 1.5px solid #003f75;
+  text-align: center;
+  align-items:center;
+}
+
+th {
+  background-color: LightSteelBlue;
+}
+
+td {
+  color: rgb(41, 41, 41);
+}
+
+button {
+  display: inline-block;
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 20px;
+  background-color: #cfdce2;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  color: white;
+  margin-bottom: 30px;
+  width: 125px;
+}
+
+
